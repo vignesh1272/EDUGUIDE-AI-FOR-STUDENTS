@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="glass-container">
+    <div class="glass-header">
+        <h1>🏫 HSC School Recommendation</h1>
+        <p>Enter your HSC marks and interest area to find eligible schools.</p>
+    </div>
+
+    <div class="glass-card form-card">
+        <div class="card-header">
+            <span class="card-icon">📝</span>
+            <h2>Your HSC Marks</h2>
+        </div>
+        <div class="card-content">
+            <div class="input-group">
+                <label>📘 Maths (35-100)</label>
+                <input type="number" id="maths" placeholder="e.g., 85" min="35" max="100" required>
+            </div>
+            <div class="input-group">
+                <label>🔬 Science (35-100)</label>
+                <input type="number" id="science" placeholder="e.g., 90" min="35" max="100" required>
+            </div>
+            <div class="input-group">
+                <label>🌍 Social (35-100)</label>
+                <input type="number" id="social" placeholder="e.g., 78" min="35" max="100" required>
+            </div>
+            <div class="input-group">
+                <label>📖 English (35-100)</label>
+                <input type="number" id="english" placeholder="e.g., 82" min="35" max="100" required>
+            </div>
+            <div class="input-group">
+                <label>💡 Interest Area</label>
+                <select id="interest">
+                    <option value="Finance">Finance</option>
+                    <option value="Fine Arts">Fine Arts</option>
+                    <option value="Literature">Literature</option>
+                    <option value="Medical Science">Medical Science</option>
+                    <option value="Others">Others</option>
+                    <option value="Public Service">Public Service</option>
+                    <option value="Research">Research</option>
+                    <option value="Sports Management">Sports Management</option>
+                    <option value="Technology">Technology</option>
+                </select>
+            </div>
+            <button class="glass-button" onclick="predictSchool()">🎓 Get School Recommendations</button>
+        </div>
+    </div>
+
+    <div class="glass-chat" id="chat-box">
+        <div class="message bot animate-fade-in">
+            <span class="message-icon">🤖</span> 
+            Hi {{ session.username }}! Provide your HSC marks above.
+        </div>
+    </div>
+</div>
+
+<script>
+    function predictSchool() {
+        const formData = new FormData();
+        formData.append('maths', document.getElementById('maths').value);
+        formData.append('science', document.getElementById('science').value);
+        formData.append('social', document.getElementById('social').value);
+        formData.append('english', document.getElementById('english').value);
+        formData.append('interest', document.getElementById('interest').value);
+
+        fetch('/predict_school', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(result => {
+            if (!result.success) {
+                addMessage('bot', '⚠️ ' + result.error);
+                return;
+            }
+            addMessage('user', `📊 Marks: Math=${formData.get('maths')}, Sci=${formData.get('science')}, Soc=${formData.get('social')}, Eng=${formData.get('english')}, Interest=${formData.get('interest')}`);
+            addMessage('bot', `🎯 <strong>Recommended Group:</strong> ${result.group}`);
+            addMessage('bot', '<div style="margin-top:10px"></div>'); // gap
+            if (result.schools.length === 0) {
+                addMessage('bot', '❌ No schools found matching your criteria.');
+            } else {
+                addMessage('bot', '🏫 <strong>Eligible Schools:</strong>');
+                result.schools.forEach(school => {
+                    addMessage('bot', `📌 ${school.school_name} (${school.school_board}) - ${school.district} - Fee: ₹${school.annual_fee}`);
+                });
+            }
+        });
+    }
+
+    function addMessage(sender, text) {
+        const chatBox = document.getElementById('chat-box');
+        const msgDiv = document.createElement('div');
+        msgDiv.className = `message ${sender} animate-slide-in`;
+        msgDiv.innerHTML = `<span class="message-icon">${sender === 'user' ? '👤' : '🤖'}</span> ${text}`;
+        chatBox.appendChild(msgDiv);
+        // Scroll to the top to show the earliest messages
+        chatBox.scrollTop = 0;
+    }
+</script>
+{% endblock %}
+

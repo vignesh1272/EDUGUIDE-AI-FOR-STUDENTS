@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="glass-container">
+    <div class="glass-header">
+        <h1>✨ EDUGUIDE AI</h1>
+        <p>Welcome{% if session.username %}, {{ session.username }}{% endif %}! Choose your path below.</p>
+    </div>
+    <div class="glass-cards hub-cards">
+        <a href="{{ url_for('predict_sslc') }}" class="glass-card hub-card">
+            <div class="card-header">
+                <span class="card-icon">🏫</span>
+                <h2>HSC Recommendation</h2>
+            </div>
+            <p>Get school recommendations based on your HSC marks and interests.</p>
+        </a>
+        <a href="{{ url_for('predict_hsc') }}" class="glass-card hub-card">
+            <div class="card-header">
+                <span class="card-icon">🎓</span>
+                <h2>College Recommendation</h2>
+            </div>
+            <p>Get college recommendations based on your profile and career interests.</p>
+        </a>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="glass-container">
+    <div class="glass-header">
+        <h1>📘 EduGuide AI Documentation</h1>
+        <p>Learn how the system works.</p>
+    </div>
+    <div class="glass-card documentation-card">
+        <div class="card-header"><span class="card-icon">🧠</span><h2>Overview</h2></div>
+        <div class="card-content"><p>EduGuide AI uses two machine learning models to help students choose the right academic path and find suitable institutions.</p></div>
+    </div>
+    <div class="glass-card documentation-card">
+        <div class="card-header"><span class="card-icon">🏫</span><h2>Model 1: HSC School Recommendation</h2></div>
+        <div class="card-content">
+            <p><strong>Inputs:</strong> Marks in Maths, Science, Social, English (35–100) and interest area.</p>
+            <p><strong>Process:</strong> A Decision Tree classifier predicts the recommended group (e.g., Maths Biology, Commerce, Arts, Computer Science). It then filters schools that offer that group and have minimum mark requirements met.</p>
+            <p><strong>Output:</strong> The predicted group and a list of eligible schools with details.</p>
+        </div>
+    </div>
+    <div class="glass-card documentation-card">
+        <div class="card-header"><span class="card-icon">🎓</span><h2>Model 2: College Recommendation</h2></div>
+        <div class="card-content">
+            <p><strong>Inputs:</strong> Gender, 12th stream, percentage, location, parent's occupation, career interest.</p>
+            <p><strong>Process:</strong> A Decision Tree classifier predicts a preferred degree. It then shows colleges offering that degree.</p>
+            <p><strong>Output:</strong> The predicted degree and a list of recommended colleges.</p>
+        </div>
+    </div>
+    <div class="glass-card documentation-card">
+        <div class="card-header"><span class="card-icon">🛠️</span><h2>Technology Stack</h2></div>
+        <div class="card-content">
+            <ul><li>Backend: Flask (Python)</li><li>Database: MySQL</li><li>Machine Learning: scikit-learn</li><li>Frontend: HTML5, CSS3 (glass morphism), JavaScript</li></ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

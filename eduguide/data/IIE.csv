@@ -1,0 +1,501 @@
+School_Name,Student_Name,Parents_Occupation,Parents_Income,Parents_Phone_Number,Maths,Science,Social,English,Language,Total_Mark,Recommended_Group,Interest,Interest_Encoded
+Govt School,Bala Pandey,Doctor,86164,7828803576,56,35,77,57,53,278,Commerce,Medical Science,3
+St Joseph School,Ravi Reddy,Business,66868,6057870227,56,34,31,92,83,296,Arts,Technology,8
+St Joseph School,Lakshmi Iyer,Engineer,81594,8931090040,67,58,59,58,84,326,Arts,Public Service,5
+Govt School,Akash Kulkarni,Engineer,53066,7171905790,56,90,48,94,90,378,Maths Biology,Literature,2
+Bharathi School,Varun Das,Engineer,63530,9006319623,44,94,73,47,42,300,Maths Biology,Literature,2
+St Joseph School,Sunil Yadav,Engineer,58465,7653112168,74,49,94,66,90,373,Commerce,Finance,0
+Bharathi School,Ananya Deshmukh,Business,73712,9105667053,41,97,62,69,80,349,Maths Biology,Medical Science,3
+Bharathi School,Kavita Shah,Electrician,33915,9399027039,36,53,91,73,63,316,Commerce,Others,4
+Govt School,Dinesh Pandey,Architect,76383,7198373922,71,77,99,39,89,375,Commerce,Medical Science,3
+Govt School,Suraj Menon,Electrician,20376,7630305228,82,70,76,91,71,390,Commerce,Research,6
+Govt School,Sameer Malhotra,Teacher,44243,7887273729,54,100,30,61,61,306,Maths Biology,Technology,8
+St Joseph School,Akash Gupta,Architect,69083,6593280459,63,40,98,71,45,317,Commerce,Technology,8
+PSG School,Naveen Singh,Doctor,71812,9346505074,59,54,82,86,77,358,Commerce,Medical Science,3
+Bharathi School,Varun Bose,Doctor,87951,9175753906,51,95,46,38,37,267,Maths Biology,Literature,2
+Bharathi School,Sneha Verma,Doctor,101404,7847553396,58,33,60,50,66,267,Arts,Literature,2
+PSG School,Vikram Santhanam,Business,51891,6941893574,48,63,63,44,83,301,Arts,Others,4
+St Joseph School,Rajesh Bose,Architect,89323,8244662520,79,33,79,71,98,360,Commerce,Technology,8
+Bharathi School,Aditya Murugan,Electrician,34848,7813708891,30,89,57,63,53,292,Maths Biology,Others,4
+St Joseph School,Deepa Gupta,Architect,88657,8054056735,75,77,69,81,63,365,Arts,Literature,2
+Bharathi School,Manoj Pandey,Farmer,27859,6969260823,91,36,91,43,44,305,Commerce,Others,4
+Govt School,Priya Gopal,Farmer,33663,8735868922,81,72,30,93,37,313,Arts,Research,6
+PSG School,Sameer Das,Shopkeeper,23960,6408387631,79,81,69,45,56,330,Maths Biology,Literature,2
+Govt School,Dinesh Sharma,Business,61842,6444751632,81,49,60,93,69,352,Arts,Sports Management,7
+St Joseph School,Vimal Khan,Engineer,84610,9124082462,98,94,63,69,58,382,Computer Science,Public Service,5
+St Joseph School,Ishita Khan,Driver,21959,9801597637,73,58,77,52,88,348,Commerce,Technology,8
+Bharathi School,Priya Choudhury,Shopkeeper,24291,7234329379,36,52,83,59,95,325,Commerce,Finance,0
+PSG School,Amit Malhotra,Architect,82714,7214505960,54,58,39,48,39,238,Arts,Research,6
+Govt School,Prakash Menon,Farmer,17076,9658444464,83,55,96,35,89,358,Commerce,Fine Arts,1
+PSG School,Karan Verma,Electrician,37023,6891981181,34,62,90,64,68,318,Commerce,Public Service,5
+Govt School,Sneha Murugan,Engineer,95319,8116673080,45,40,58,63,74,280,Arts,Finance,0
+Govt School,Nisha Santhanam,Engineer,62974,6314471474,68,70,70,35,64,307,Arts,Literature,2
+St Joseph School,Meena Sharma,Driver,17923,9639643067,60,31,79,49,44,263,Commerce,Fine Arts,1
+Govt School,Riya Rajan,Teacher,35890,6344351052,50,48,73,64,90,325,Arts,Medical Science,3
+PSG School,Akash Singh,Farmer,25785,9166133472,34,88,55,68,35,280,Maths Biology,Medical Science,3
+Govt School,Vijay Singh,Engineer,88020,9950628855,71,61,70,63,55,320,Arts,Research,6
+St Joseph School,Deepa Deshmukh,Engineer,88699,7207015263,45,47,39,56,65,252,Arts,Medical Science,3
+Govt School,Sneha Patel,Driver,17648,9745713618,56,88,61,39,84,328,Maths Biology,Fine Arts,1
+PSG School,Nisha Mishra,Farmer,21308,6181778498,87,67,38,70,85,347,Arts,Fine Arts,1
+Govt School,Varun Reddy,Engineer,67647,9378244039,86,64,76,68,87,381,Commerce,Public Service,5
+St Joseph School,Karthik Nair,Architect,58444,9477655840,78,69,37,44,88,316,Arts,Technology,8
+St Joseph School,Mani Pillai,Architect,82754,9923188045,78,86,43,91,74,372,Maths Biology,Sports Management,7
+St Joseph School,Santhosh Kumar,Driver,23442,9200385439,51,35,95,47,82,310,Commerce,Others,4
+St Joseph School,Sanjay Kulkarni,Driver,27803,8275918810,92,92,88,61,61,394,Computer Science,Medical Science,3
+Govt School,Santhosh Patel,Doctor,127745,9599412796,35,60,51,95,40,281,Arts,Research,6
+St Joseph School,Meena Mishra,Business,55444,8222618561,62,36,57,90,44,289,Arts,Medical Science,3
+St Joseph School,Ishita Gupta,Architect,57302,7452111980,71,91,94,66,60,382,Maths Biology,Others,4
+Bharathi School,Arun Yadav,Farmer,29279,6522624573,93,42,30,80,48,293,Arts,Public Service,5
+St Joseph School,Naveen Bose,Business,74765,7207574687,88,59,81,84,81,393,Commerce,Fine Arts,1
+Govt School,Ananya Kapoor,Architect,84491,8187697846,43,81,47,74,93,338,Maths Biology,Literature,2
+Govt School,Bala Bose,Doctor,112386,7808305787,85,81,71,83,65,385,Maths Biology,Medical Science,3
+PSG School,Vikram Malhotra,Engineer,71175,6863591402,89,95,76,97,70,427,Computer Science,Technology,8
+St Joseph School,Shruti Nair,Teacher,75600,6956816138,71,60,97,73,35,336,Commerce,Literature,2
+Bharathi School,Aishwarya Malhotra,Farmer,25497,8563905147,36,50,87,37,88,298,Commerce,Public Service,5
+Govt School,Divya Iyer,Doctor,87416,9899440382,98,67,98,95,97,455,Commerce,Medical Science,3
+St Joseph School,Santhosh Joshi,Doctor,65767,8678064126,68,89,80,55,67,359,Maths Biology,Literature,2
+St Joseph School,Sunil Nair,Shopkeeper,39584,6393364557,85,86,34,43,76,324,Computer Science,Medical Science,3
+St Joseph School,Ravi Shah,Shopkeeper,27830,8930672528,84,48,59,55,59,305,Arts,Research,6
+St Joseph School,Manoj Singh,Business,52095,6319855954,83,39,59,54,46,281,Arts,Public Service,5
+PSG School,Vimal Chawla,Business,54405,9500381710,48,45,33,64,66,256,Arts,Sports Management,7
+PSG School,Nehal Joshi,Doctor,66295,9251494461,97,50,72,78,45,342,Arts,Fine Arts,1
+St Joseph School,Abhishek Sharma,Business,54737,8596643551,39,97,36,91,97,360,Maths Biology,Finance,0
+St Joseph School,Anitha Iyer,Electrician,35679,9098590387,64,98,80,79,79,400,Maths Biology,Fine Arts,1
+Bharathi School,Ishita Kumar,Architect,82244,6256812965,48,74,92,57,75,346,Commerce,Fine Arts,1
+Bharathi School,Nehal Kapoor,Doctor,71738,7530152654,91,47,75,77,67,357,Commerce,Literature,2
+Govt School,Deepa Chawla,Engineer,110140,8235559011,89,33,72,55,76,325,Arts,Public Service,5
+Bharathi School,Simran Santhanam,Architect,98961,7550093036,94,91,42,39,99,365,Computer Science,Medical Science,3
+St Joseph School,Rahul Das,Electrician,22392,6455003624,47,54,43,38,41,223,Arts,Finance,0
+St Joseph School,Aditya Choudhury,Business,65380,6725056525,66,41,84,88,56,335,Commerce,Others,4
+St Joseph School,Santhosh Pillai,Driver,21271,9349889306,82,95,36,68,36,317,Maths Biology,Literature,2
+PSG School,Vijay Verma,Electrician,37457,8688948036,84,80,71,71,100,406,Maths Biology,Finance,0
+Bharathi School,Ananya Das,Teacher,60914,9593064636,49,95,70,72,90,376,Maths Biology,Sports Management,7
+St Joseph School,Riya Khan,Doctor,86939,6579209232,79,33,76,91,76,355,Commerce,Research,6
+PSG School,Kiran Choudhury,Doctor,78682,7915483932,78,91,54,51,74,348,Maths Biology,Public Service,5
+Govt School,Pooja Yadav,Electrician,26866,7787885177,36,95,81,69,100,381,Maths Biology,Others,4
+St Joseph School,Abhishek Kapoor,Doctor,128714,8089194258,71,68,48,77,35,299,Arts,Literature,2
+St Joseph School,Ananya Bose,Teacher,44142,6812239440,67,65,47,61,52,292,Arts,Fine Arts,1
+PSG School,Sangeetha Joshi,Driver,23771,8861913158,96,75,89,56,85,401,Commerce,Technology,8
+St Joseph School,Aishwarya Murugan,Business,53826,8585471655,82,64,43,56,45,290,Arts,Literature,2
+St Joseph School,Simran Sharma,Doctor,109951,8801029888,38,66,88,62,50,304,Commerce,Technology,8
+PSG School,Pooja Sharma,Business,63895,7068419291,86,35,82,56,93,352,Commerce,Fine Arts,1
+PSG School,Naveen Kulkarni,Teacher,52288,7951537416,90,87,55,70,37,339,Computer Science,Research,6
+Bharathi School,Naveen Deshmukh,Doctor,95087,8312916588,56,41,84,64,87,332,Commerce,Public Service,5
+St Joseph School,Suresh Iyer,Teacher,45236,8281305286,98,90,92,62,36,378,Computer Science,Medical Science,3
+Bharathi School,Sunil Verma,Business,64979,8917417712,79,45,84,69,73,350,Commerce,Literature,2
+Govt School,Sunil Pillai,Engineer,88502,6388742170,58,37,54,48,48,245,Arts,Fine Arts,1
+PSG School,Ravi Nair,Electrician,29172,9718737194,80,60,71,48,57,316,Arts,Literature,2
+St Joseph School,Suresh Khan,Business,72209,7939823937,70,95,31,40,59,295,Maths Biology,Sports Management,7
+Bharathi School,Priya Das,Shopkeeper,34671,8924284230,50,67,99,36,79,331,Commerce,Research,6
+Govt School,Swati Menon,Farmer,32207,7063340758,93,38,86,100,39,356,Commerce,Sports Management,7
+Govt School,Sameer Choudhury,Doctor,127278,9964947714,31,67,94,90,69,351,Commerce,Finance,0
+PSG School,Sangeetha Malhotra,Engineer,79132,6076306391,87,78,91,74,58,388,Commerce,Public Service,5
+PSG School,Pooja Malhotra,Teacher,43126,6700339508,52,92,69,97,75,385,Maths Biology,Finance,0
+St Joseph School,Ganesh Nair,Driver,25838,9675261470,93,60,51,80,69,353,Arts,Literature,2
+St Joseph School,Pooja Mishra,Electrician,37877,9929655459,53,42,44,82,41,262,Arts,Others,4
+PSG School,Lakshmi Verma,Teacher,46469,7489543517,43,84,98,87,42,354,Maths Biology,Others,4
+Govt School,Kavita Iyer,Teacher,53299,8887826775,40,81,36,36,40,233,Maths Biology,Public Service,5
+St Joseph School,Rohan Gupta,Engineer,76280,7618286421,42,62,96,44,86,330,Commerce,Research,6
+Govt School,Priya Sharma,Architect,86835,8978791926,83,85,30,79,95,372,Maths Biology,Research,6
+PSG School,Aishwarya Khan,Driver,17236,9856909005,94,94,98,56,50,392,Computer Science,Fine Arts,1
+Govt School,Vikram Reddy,Doctor,101328,9992764285,90,72,84,35,47,328,Commerce,Literature,2
+PSG School,Rajesh Menon,Business,62524,9550246465,71,32,89,81,100,373,Commerce,Finance,0
+PSG School,Amit Patel,Electrician,30223,8241114618,74,91,38,85,72,360,Maths Biology,Others,4
+PSG School,Naveen Mehta,Shopkeeper,37532,8032370229,50,70,80,90,97,387,Commerce,Sports Management,7
+Bharathi School,Amit Joshi,Electrician,37968,9139818481,34,66,80,83,49,312,Commerce,Medical Science,3
+PSG School,Ganesh Murugan,Engineer,92779,9089175839,98,34,52,87,79,350,Arts,Technology,8
+PSG School,Karan Menon,Engineer,78587,8257046223,60,51,60,54,62,287,Arts,Medical Science,3
+Bharathi School,Divya Rajan,Architect,76951,6173018170,50,60,61,46,69,286,Arts,Finance,0
+Govt School,Meena Choudhury,Doctor,90053,8111348051,73,74,60,41,40,288,Arts,Finance,0
+Govt School,Dinesh Mehta,Engineer,93009,7353725063,52,92,73,72,87,376,Maths Biology,Research,6
+Govt School,Sanjay Malhotra,Farmer,33144,7801618163,30,44,93,36,39,242,Commerce,Medical Science,3
+Govt School,Mani Murugan,Driver,23075,9053128698,73,90,33,99,66,361,Maths Biology,Research,6
+St Joseph School,Suraj Nair,Electrician,23182,6382605821,76,82,100,99,69,426,Maths Biology,Research,6
+Bharathi School,Priya Kulkarni,Architect,97644,8914349894,60,97,60,71,90,378,Maths Biology,Sports Management,7
+PSG School,Naveen Menon,Teacher,63766,6714407832,53,45,76,35,44,253,Commerce,Others,4
+Govt School,Dinesh Gopal,Engineer,50609,6381210279,58,47,53,39,49,246,Arts,Public Service,5
+Bharathi School,Rajesh Yadav,Driver,26066,6186374973,68,96,72,84,36,356,Maths Biology,Others,4
+St Joseph School,Deepa Gopal,Architect,78874,8526170965,86,46,77,44,53,306,Commerce,Technology,8
+Bharathi School,Prakash Sharma,Electrician,25151,9792259088,71,39,92,51,88,341,Commerce,Medical Science,3
+Bharathi School,Suraj Shah,Doctor,89406,6085807971,74,53,51,93,80,351,Arts,Others,4
+Govt School,Rajesh Pillai,Teacher,46694,7669674097,92,68,48,96,56,360,Arts,Public Service,5
+Bharathi School,Rohan Malhotra,Driver,21777,7254881329,97,76,52,57,72,354,Arts,Fine Arts,1
+Bharathi School,Vimal Yadav,Farmer,18709,7772808090,48,30,66,73,58,275,Arts,Medical Science,3
+St Joseph School,Ravi Menon,Farmer,30981,7863557244,54,76,44,79,77,330,Arts,Public Service,5
+PSG School,Deepa Kapoor,Farmer,27660,9622787810,67,69,42,71,59,308,Arts,Research,6
+St Joseph School,Anitha Chawla,Shopkeeper,25851,7413679553,79,96,75,45,100,395,Maths Biology,Finance,0
+Bharathi School,Suraj Mehta,Electrician,29403,6018851437,86,61,87,91,92,417,Commerce,Sports Management,7
+St Joseph School,Shruti Gupta,Business,46594,9383009772,64,47,65,68,59,303,Arts,Technology,8
+Bharathi School,Anitha Gopal,Shopkeeper,24372,7357192697,100,69,99,99,73,440,Commerce,Public Service,5
+PSG School,Lakshmi Kumar,Shopkeeper,23909,8695042827,60,39,73,59,60,291,Arts,Others,4
+PSG School,Nisha Yadav,Architect,65000,8441854484,74,35,55,97,69,330,Arts,Finance,0
+Bharathi School,Ravi Kapoor,Engineer,44439,7619985213,52,94,33,70,78,327,Maths Biology,Others,4
+Govt School,Varun Pandey,Farmer,35719,6002511374,100,35,58,45,44,282,Arts,Medical Science,3
+St Joseph School,Abhishek Iyer,Farmer,31009,7205947509,81,41,57,99,78,356,Arts,Public Service,5
+Govt School,Meena Shah,Electrician,29964,6518696186,66,69,36,96,88,355,Arts,Others,4
+Govt School,Karthik Bose,Shopkeeper,34078,9011897173,64,91,85,94,56,390,Maths Biology,Literature,2
+PSG School,Sneha Kulkarni,Shopkeeper,30787,7488569211,79,87,49,44,48,307,Maths Biology,Finance,0
+Bharathi School,Divya Pillai,Engineer,76495,9710094849,51,77,75,72,89,364,Commerce,Fine Arts,1
+Bharathi School,Bala Gupta,Driver,28027,9793702306,50,47,49,61,49,256,Arts,Finance,0
+Bharathi School,Bala Kulkarni,Doctor,64827,9275723770,46,35,92,62,75,310,Commerce,Others,4
+Bharathi School,Naveen Reddy,Teacher,61042,9457019727,65,47,95,42,80,329,Commerce,Others,4
+PSG School,Lakshmi Patel,Business,73288,6926055495,72,53,65,99,87,376,Arts,Technology,8
+Govt School,Rohan Mishra,Teacher,44159,6012728793,100,63,49,75,91,378,Arts,Fine Arts,1
+St Joseph School,Arun Shah,Electrician,30960,9832929970,81,40,43,46,41,251,Arts,Sports Management,7
+PSG School,Sangeetha Pandey,Business,56705,7147255233,78,57,58,81,49,323,Arts,Technology,8
+Bharathi School,Manish Menon,Engineer,61606,9901991043,72,58,83,66,45,324,Commerce,Medical Science,3
+Govt School,Meena Chawla,Architect,95661,8647421342,99,95,62,51,74,381,Computer Science,Fine Arts,1
+PSG School,Suresh Gupta,Engineer,54310,8638298355,50,41,90,39,78,298,Commerce,Public Service,5
+PSG School,Aditya Gupta,Business,48465,9390789830,77,88,62,45,99,371,Maths Biology,Literature,2
+Govt School,Meena Rajan,Architect,67745,8591049877,33,70,30,36,49,218,Arts,Technology,8
+PSG School,Swati Gupta,Electrician,26510,8355419925,97,47,72,37,84,337,Arts,Literature,2
+PSG School,Anitha Menon,Engineer,67230,9780843378,46,32,94,91,79,342,Commerce,Medical Science,3
+Govt School,Divya Mishra,Driver,29099,7642412103,44,51,53,62,86,296,Arts,Medical Science,3
+PSG School,Manoj Yadav,Engineer,80176,6028715429,93,76,45,97,46,357,Arts,Sports Management,7
+PSG School,Vijay Bose,Electrician,34258,7644023727,99,81,51,96,88,415,Maths Biology,Medical Science,3
+Govt School,Dinesh Chawla,Engineer,89675,9851114177,54,35,81,36,52,258,Commerce,Others,4
+Bharathi School,Karan Gopal,Electrician,31025,8493963343,95,32,92,96,100,415,Commerce,Finance,0
+PSG School,Sunil Malhotra,Engineer,88068,6715215033,99,32,42,49,43,265,Arts,Finance,0
+Govt School,Suraj Singh,Electrician,24467,9672685283,60,33,69,46,44,252,Arts,Sports Management,7
+Bharathi School,Aishwarya Kulkarni,Business,65219,9493974210,41,35,30,59,99,264,Arts,Others,4
+Bharathi School,Ishita Shah,Farmer,24299,6141825823,47,69,90,99,71,376,Commerce,Finance,0
+PSG School,Meena Gupta,Teacher,59731,9733073260,72,43,86,47,41,289,Commerce,Public Service,5
+St Joseph School,Akash Sharma,Shopkeeper,41813,9319698190,95,56,49,46,62,308,Arts,Others,4
+St Joseph School,Sneha Nair,Teacher,38441,9977420046,39,42,35,41,79,236,Arts,Research,6
+Bharathi School,Sanjay Pandey,Architect,77508,7550533228,72,49,35,47,61,264,Arts,Literature,2
+PSG School,Dinesh Joshi,Shopkeeper,32715,7246847612,85,66,42,68,58,319,Arts,Others,4
+PSG School,Akash Verma,Business,49949,8080711825,38,44,72,42,77,273,Arts,Literature,2
+Bharathi School,Meena Murugan,Teacher,45103,8824479330,42,37,32,96,65,272,Arts,Public Service,5
+St Joseph School,Ajay Patel,Electrician,29731,7298989683,54,89,46,98,71,358,Maths Biology,Research,6
+Govt School,Naveen Patel,Shopkeeper,39729,9331257901,83,92,62,62,83,382,Maths Biology,Fine Arts,1
+Bharathi School,Simran Menon,Business,54907,6670907794,41,55,60,86,72,314,Arts,Sports Management,7
+PSG School,Divya Pandey,Doctor,115389,9737998163,78,100,83,69,81,411,Maths Biology,Others,4
+Bharathi School,Kiran Kapoor,Farmer,19821,8088159364,99,89,55,71,96,410,Computer Science,Sports Management,7
+St Joseph School,Varun Sharma,Engineer,89007,6066729041,34,61,52,48,46,241,Arts,Medical Science,3
+Bharathi School,Amit Yadav,Electrician,22647,6184260874,33,84,82,38,92,329,Maths Biology,Literature,2
+St Joseph School,Aditya Menon,Architect,75495,6180941487,57,39,99,93,66,354,Commerce,Literature,2
+Govt School,Manoj Kulkarni,Engineer,69337,8927132105,97,84,40,72,74,367,Maths Biology,Medical Science,3
+Bharathi School,Varun Yadav,Farmer,18669,9490600099,54,38,71,50,88,301,Arts,Fine Arts,1
+St Joseph School,Prakash Santhanam,Architect,62546,9729560626,94,60,41,73,74,342,Arts,Technology,8
+Govt School,Sanjay Das,Doctor,72585,6136275162,70,59,64,89,95,377,Arts,Others,4
+Govt School,Ravi Kumar,Electrician,29652,7855881530,61,68,80,73,88,370,Commerce,Literature,2
+PSG School,Divya Menon,Driver,26876,8521227848,38,34,82,88,93,335,Commerce,Literature,2
+Govt School,Sunil Santhanam,Teacher,48138,7227470257,55,74,56,86,66,337,Arts,Technology,8
+Govt School,Kiran Das,Doctor,113315,9134001407,67,95,30,97,59,348,Maths Biology,Medical Science,3
+Govt School,Vimal Verma,Electrician,27689,9683616270,58,97,100,90,78,423,Maths Biology,Technology,8
+Bharathi School,Prakash Mishra,Doctor,77248,6595041760,43,90,91,79,56,359,Maths Biology,Literature,2
+Govt School,Vikram Sharma,Teacher,51469,8630911288,34,67,63,58,74,296,Arts,Medical Science,3
+Govt School,Nisha Das,Doctor,87906,6769249281,59,47,31,48,48,233,Arts,Technology,8
+Govt School,Aditya Chawla,Farmer,21012,8717437849,74,87,42,74,46,323,Maths Biology,Fine Arts,1
+PSG School,Bala Reddy,Architect,76601,9527984514,47,96,68,99,91,401,Maths Biology,Medical Science,3
+PSG School,Sunil Iyer,Electrician,29822,6685064337,60,61,98,92,43,354,Commerce,Others,4
+Govt School,Nehal Sharma,Business,67368,6257443629,40,86,30,100,71,327,Maths Biology,Literature,2
+St Joseph School,Karthik Santhanam,Doctor,78989,6726432502,70,96,100,68,73,407,Maths Biology,Public Service,5
+Govt School,Mani Deshmukh,Farmer,19512,8840183803,66,30,77,46,87,306,Commerce,Sports Management,7
+St Joseph School,Kiran Chawla,Architect,86410,8059354096,92,68,36,68,61,325,Arts,Literature,2
+Bharathi School,Deepa Patel,Shopkeeper,34779,9581974883,75,59,97,56,89,376,Commerce,Others,4
+St Joseph School,Divya Bose,Architect,94293,9060837733,79,77,34,74,36,300,Arts,Finance,0
+Bharathi School,Ravi Rajan,Doctor,89920,8295573006,60,79,91,42,89,361,Commerce,Sports Management,7
+St Joseph School,Manish Sharma,Driver,18995,6820399133,57,68,46,57,39,267,Arts,Literature,2
+PSG School,Nehal Gopal,Engineer,87533,8491907131,61,44,92,70,51,318,Commerce,Sports Management,7
+Govt School,Kavita Mishra,Driver,18293,6855808816,80,56,96,39,65,336,Commerce,Research,6
+PSG School,Manish Pillai,Teacher,54770,7616986875,36,50,91,93,65,335,Commerce,Literature,2
+St Joseph School,Suresh Das,Electrician,28072,8457701378,83,78,40,51,61,313,Arts,Medical Science,3
+PSG School,Lakshmi Khan,Business,53697,9943728252,36,81,60,84,74,335,Maths Biology,Medical Science,3
+Bharathi School,Prakash Patel,Farmer,26069,9972717568,39,96,37,100,90,362,Maths Biology,Research,6
+Govt School,Vimal Rajan,Architect,60473,9062224951,96,82,31,84,67,360,Maths Biology,Fine Arts,1
+Bharathi School,Suraj Bose,Doctor,112603,8888069234,82,75,55,76,39,327,Arts,Research,6
+Bharathi School,Priya Iyer,Electrician,31493,8194266860,95,32,59,72,47,305,Arts,Research,6
+PSG School,Manish Malhotra,Electrician,35556,8626354377,36,73,78,35,46,268,Commerce,Sports Management,7
+Bharathi School,Rohan Kumar,Farmer,24986,6773333163,93,33,59,77,39,301,Arts,Technology,8
+St Joseph School,Vikram Yadav,Shopkeeper,25223,9661041535,82,56,33,42,63,276,Arts,Medical Science,3
+PSG School,Kavita Pandey,Business,57323,7675231169,80,64,91,65,99,399,Commerce,Technology,8
+St Joseph School,Lakshmi Das,Farmer,35918,6075576013,84,72,30,89,52,327,Arts,Research,6
+Govt School,Meena Pandey,Driver,26210,7149002840,56,49,62,56,38,261,Arts,Fine Arts,1
+Govt School,Ravi Kulkarni,Doctor,106063,8954262879,78,93,36,67,42,316,Maths Biology,Medical Science,3
+PSG School,Sangeetha Choudhury,Farmer,31854,9104474778,55,72,64,55,46,292,Arts,Literature,2
+St Joseph School,Ananya Choudhury,Architect,75632,7664815169,31,87,63,57,60,298,Maths Biology,Literature,2
+Bharathi School,Rajesh Singh,Farmer,29158,7486819313,30,63,75,87,81,336,Commerce,Literature,2
+Govt School,Nehal Kulkarni,Doctor,71928,9975264833,80,47,78,99,45,349,Commerce,Others,4
+Bharathi School,Sanjay Sharma,Business,63137,7667429417,64,82,79,77,46,348,Maths Biology,Sports Management,7
+PSG School,Aishwarya Bose,Doctor,83820,6690052433,63,31,43,67,75,279,Arts,Finance,0
+St Joseph School,Prakash Iyer,Shopkeeper,18208,7669681271,57,33,49,48,81,268,Arts,Research,6
+St Joseph School,Aditya Verma,Teacher,44043,8427641463,52,73,39,96,45,305,Arts,Finance,0
+Govt School,Nisha Menon,Electrician,27950,7540843744,54,38,95,49,88,324,Commerce,Public Service,5
+PSG School,Dinesh Gupta,Architect,101178,6684305887,50,97,55,89,99,390,Maths Biology,Sports Management,7
+PSG School,Shruti Chawla,Doctor,96602,9705366964,89,43,99,98,83,412,Commerce,Literature,2
+PSG School,Riya Pandey,Electrician,19437,8483412642,47,74,99,77,91,388,Commerce,Medical Science,3
+Bharathi School,Amit Deshmukh,Architect,101355,6750258553,34,73,67,93,75,342,Arts,Sports Management,7
+Govt School,Vijay Joshi,Electrician,22935,8678888684,39,41,32,90,49,251,Arts,Others,4
+PSG School,Arun Pandey,Driver,22751,6355365213,59,57,83,76,97,372,Commerce,Medical Science,3
+St Joseph School,Pooja Choudhury,Electrician,35688,6842583705,50,93,31,59,55,288,Maths Biology,Technology,8
+PSG School,Meena Santhanam,Doctor,73239,7877243677,54,81,86,77,65,363,Maths Biology,Others,4
+St Joseph School,Karthik Mishra,Business,62187,7716286702,75,40,65,53,71,304,Arts,Technology,8
+St Joseph School,Vikram Bose,Farmer,15345,6893025887,42,94,96,67,74,373,Maths Biology,Medical Science,3
+St Joseph School,Amit Das,Farmer,31204,9283669367,94,95,38,62,59,348,Computer Science,Literature,2
+St Joseph School,Ananya Gupta,Architect,94664,8514516824,50,55,42,69,42,258,Arts,Finance,0
+Bharathi School,Mani Singh,Electrician,38901,8356449252,48,47,74,76,66,311,Arts,Research,6
+St Joseph School,Nehal Iyer,Driver,18385,9147105521,44,74,33,35,91,277,Arts,Sports Management,7
+Bharathi School,Abhishek Kulkarni,Shopkeeper,35395,6578467780,37,43,55,69,94,298,Arts,Sports Management,7
+Govt School,Riya Santhanam,Electrician,37844,6530678954,77,74,88,96,68,403,Commerce,Literature,2
+Bharathi School,Santhosh Chawla,Shopkeeper,38129,6914913867,46,52,94,42,39,273,Commerce,Research,6
+St Joseph School,Sunil Singh,Architect,86666,7867435586,63,64,83,71,81,362,Commerce,Technology,8
+Govt School,Suresh Verma,Shopkeeper,29674,7227013495,38,100,77,38,48,301,Maths Biology,Finance,0
+St Joseph School,Deepa Kumar,Engineer,75037,7458624105,100,98,91,97,76,462,Computer Science,Research,6
+PSG School,Lakshmi Nair,Farmer,32094,8312387611,69,71,79,48,56,323,Commerce,Technology,8
+Govt School,Mani Menon,Teacher,44017,8386991797,41,71,34,73,68,287,Arts,Research,6
+PSG School,Ajay Rajan,Shopkeeper,31660,6420623121,55,70,93,91,83,392,Commerce,Public Service,5
+Bharathi School,Ganesh Chawla,Farmer,28410,6817969088,35,99,44,85,99,362,Maths Biology,Sports Management,7
+St Joseph School,Ajay Singh,Shopkeeper,35510,7893648892,62,53,84,64,83,346,Commerce,Public Service,5
+PSG School,Karan Das,Doctor,120616,9062670940,77,80,72,99,60,388,Maths Biology,Research,6
+PSG School,Sneha Iyer,Architect,73810,8538478309,44,57,84,60,36,281,Commerce,Others,4
+PSG School,Karan Nair,Driver,15000,9194483972,82,88,62,93,50,375,Maths Biology,Sports Management,7
+St Joseph School,Karthik Deshmukh,Teacher,78935,9519032281,40,91,64,88,91,374,Maths Biology,Finance,0
+St Joseph School,Ishita Santhanam,Engineer,86699,6184567464,60,54,41,44,56,255,Arts,Literature,2
+PSG School,Ganesh Bose,Architect,87559,6368248590,40,57,46,60,43,246,Arts,Public Service,5
+St Joseph School,Ravi Verma,Driver,18446,6974688431,40,65,55,93,69,322,Arts,Literature,2
+Govt School,Ajay Gopal,Shopkeeper,26188,9190500416,82,90,76,84,53,385,Maths Biology,Technology,8
+Govt School,Vimal Shah,Electrician,33505,9372301100,74,48,83,62,63,330,Commerce,Others,4
+Govt School,Karthik Das,Architect,81649,6858085195,50,75,37,70,91,323,Arts,Technology,8
+PSG School,Shruti Reddy,Farmer,29372,8042401874,82,71,35,73,57,318,Arts,Fine Arts,1
+Bharathi School,Prakash Chawla,Architect,60036,8079290344,100,62,54,56,98,370,Arts,Technology,8
+Govt School,Sunil Kumar,Business,43060,7919912114,31,58,64,48,88,289,Arts,Technology,8
+Bharathi School,Varun Khan,Architect,89931,7316434747,34,88,97,84,66,369,Maths Biology,Sports Management,7
+Bharathi School,Divya Kapoor,Doctor,90344,9325577951,80,40,44,60,49,273,Arts,Others,4
+Bharathi School,Lakshmi Mishra,Teacher,52796,8999940216,41,66,34,56,49,246,Arts,Others,4
+Govt School,Vimal Santhanam,Shopkeeper,27088,6583356138,78,100,64,73,74,389,Maths Biology,Finance,0
+St Joseph School,Ravi Gopal,Engineer,97051,6843398349,59,83,37,66,75,320,Maths Biology,Technology,8
+St Joseph School,Vikram Kulkarni,Shopkeeper,36754,7205962618,78,90,70,69,45,352,Maths Biology,Others,4
+Bharathi School,Bala Khan,Shopkeeper,29596,6401670265,63,98,72,44,78,355,Maths Biology,Medical Science,3
+Bharathi School,Lakshmi Gupta,Farmer,28472,8492169317,91,97,50,89,45,372,Computer Science,Finance,0
+Govt School,Riya Patel,Farmer,44231,9100884509,46,37,88,84,57,312,Commerce,Medical Science,3
+Govt School,Lakshmi Menon,Electrician,44103,7233342778,38,49,68,68,36,259,Arts,Medical Science,3
+Bharathi School,Rohan Iyer,Doctor,97784,6101454680,71,47,61,62,61,302,Arts,Literature,2
+St Joseph School,Sunil Shah,Farmer,29142,9764546342,74,33,40,82,45,274,Arts,Research,6
+Govt School,Simran Gupta,Farmer,27075,7096335898,48,31,54,56,98,287,Arts,Medical Science,3
+PSG School,Nisha Murugan,Electrician,25296,8210694864,59,39,71,57,62,288,Arts,Literature,2
+St Joseph School,Manoj Malhotra,Teacher,50952,7517921590,45,37,45,46,36,209,Arts,Technology,8
+PSG School,Arun Nair,Business,73376,8269439439,47,46,75,81,83,332,Commerce,Medical Science,3
+Govt School,Swati Choudhury,Business,58592,9335524867,92,90,54,88,93,417,Computer Science,Research,6
+PSG School,Kiran Verma,Doctor,84368,6724407947,48,39,60,77,39,263,Arts,Others,4
+Bharathi School,Manish Santhanam,Doctor,103382,6701407549,79,68,95,78,76,396,Commerce,Fine Arts,1
+St Joseph School,Riya Mehta,Teacher,47376,7209744392,79,70,91,80,47,367,Commerce,Public Service,5
+St Joseph School,Divya Malhotra,Teacher,58322,6337379417,87,32,93,49,42,303,Commerce,Literature,2
+Bharathi School,Sangeetha Mehta,Shopkeeper,34226,7109501526,54,39,53,97,91,334,Arts,Fine Arts,1
+Govt School,Vimal Sharma,Engineer,78309,6074222260,82,78,87,100,46,393,Commerce,Literature,2
+PSG School,Nehal Mehta,Architect,68723,6167829988,67,99,92,41,70,369,Maths Biology,Public Service,5
+St Joseph School,Rohan Shah,Architect,80002,9090695001,47,36,72,87,60,302,Arts,Research,6
+Bharathi School,Vijay Gupta,Driver,19874,9302239019,31,91,80,64,98,364,Maths Biology,Finance,0
+PSG School,Deepa Iyer,Electrician,24919,8768804591,35,51,95,43,42,266,Commerce,Public Service,5
+Govt School,Santhosh Gupta,Business,50972,7004841352,65,52,85,47,81,330,Commerce,Sports Management,7
+Govt School,Karan Bose,Electrician,26222,9256853663,81,82,67,50,46,326,Maths Biology,Fine Arts,1
+St Joseph School,Suraj Rajan,Business,42356,9800538118,70,88,84,44,63,349,Maths Biology,Medical Science,3
+Govt School,Nehal Das,Electrician,35569,9379010805,75,72,75,97,39,358,Commerce,Technology,8
+Bharathi School,Divya Santhanam,Farmer,20923,7359771117,45,36,87,72,68,308,Commerce,Sports Management,7
+St Joseph School,Lakshmi Deshmukh,Doctor,77609,6848983292,57,31,54,47,94,283,Arts,Medical Science,3
+Govt School,Rahul Verma,Shopkeeper,25233,6949730861,65,38,49,65,35,252,Arts,Medical Science,3
+St Joseph School,Deepa Yadav,Farmer,26639,6741844513,76,63,81,48,50,318,Commerce,Others,4
+Bharathi School,Ishita Reddy,Architect,51728,6039503599,68,38,48,91,63,308,Arts,Literature,2
+Govt School,Ananya Joshi,Electrician,26276,6468378986,45,75,79,70,76,345,Commerce,Others,4
+Bharathi School,Priya Rajan,Teacher,65445,6289344979,45,58,48,85,52,288,Arts,Public Service,5
+St Joseph School,Bala Rajan,Doctor,88281,8243019188,43,51,55,57,94,300,Arts,Finance,0
+Bharathi School,Divya Yadav,Driver,34997,6251479222,99,95,77,93,92,456,Computer Science,Fine Arts,1
+Govt School,Sanjay Shah,Engineer,37862,8941644796,35,36,84,73,54,282,Commerce,Medical Science,3
+St Joseph School,Sneha Mehta,Electrician,18575,6409812739,69,80,48,35,53,285,Maths Biology,Literature,2
+Govt School,Santhosh Nair,Business,49308,7948254003,83,89,79,93,50,394,Maths Biology,Fine Arts,1
+Govt School,Sunil Das,Shopkeeper,33851,8542535015,87,35,43,46,94,305,Arts,Public Service,5
+Bharathi School,Vijay Shah,Architect,78066,7376877162,56,80,74,43,67,320,Maths Biology,Finance,0
+Govt School,Manoj Verma,Farmer,26461,9796744049,70,86,89,95,69,409,Maths Biology,Sports Management,7
+Bharathi School,Suresh Kumar,Electrician,37694,6610642849,100,48,90,61,100,399,Commerce,Others,4
+Govt School,Ganesh Gupta,Driver,22597,9459382691,67,41,93,63,74,338,Commerce,Public Service,5
+St Joseph School,Suraj Choudhury,Engineer,68095,7646168380,53,79,98,75,87,392,Commerce,Others,4
+Bharathi School,Pooja Nair,Driver,25663,7124931259,63,58,56,86,90,353,Arts,Technology,8
+PSG School,Ananya Khan,Shopkeeper,25163,8416620748,35,64,51,66,98,314,Arts,Others,4
+St Joseph School,Amit Mishra,Engineer,85922,7178359873,59,39,34,42,77,251,Arts,Public Service,5
+Govt School,Abhishek Pandey,Shopkeeper,32178,7044223432,73,79,61,83,38,334,Arts,Medical Science,3
+Govt School,Rahul Menon,Driver,22716,8037259116,35,96,69,63,88,351,Maths Biology,Finance,0
+Bharathi School,Meena Das,Farmer,20581,7429265668,50,41,48,42,91,272,Arts,Public Service,5
+Bharathi School,Ananya Sharma,Architect,75192,6395511345,94,59,100,91,74,418,Commerce,Medical Science,3
+Govt School,Manish Iyer,Doctor,84889,6517321652,42,48,99,93,98,380,Commerce,Medical Science,3
+Bharathi School,Meena Nair,Shopkeeper,22796,6991765266,34,66,87,65,44,296,Commerce,Others,4
+Bharathi School,Ajay Chawla,Teacher,46168,9986391011,34,64,37,94,77,306,Arts,Finance,0
+PSG School,Akash Joshi,Teacher,42449,6672298765,98,97,40,40,60,335,Computer Science,Public Service,5
+St Joseph School,Akash Khan,Electrician,31932,8815838428,91,33,49,75,88,336,Arts,Public Service,5
+PSG School,Ishita Kapoor,Teacher,61603,6109609858,73,88,70,40,39,310,Maths Biology,Literature,2
+PSG School,Sameer Chawla,Driver,21901,6765070573,31,83,53,64,99,330,Maths Biology,Fine Arts,1
+Bharathi School,Anitha Deshmukh,Teacher,70645,9011889747,78,30,49,39,46,242,Arts,Literature,2
+St Joseph School,Vikram Shah,Business,60870,8505502337,43,81,56,98,73,351,Maths Biology,Public Service,5
+PSG School,Kavita Malhotra,Driver,15455,7308047014,49,94,71,77,78,369,Maths Biology,Others,4
+St Joseph School,Vikram Mishra,Business,59131,9781465157,95,36,31,45,46,253,Arts,Sports Management,7
+Govt School,Ajay Gupta,Business,66220,8666844696,39,78,30,80,51,278,Arts,Public Service,5
+Bharathi School,Ishita Choudhury,Architect,76634,8201994170,99,32,46,98,82,357,Arts,Technology,8
+St Joseph School,Abhishek Mishra,Shopkeeper,28882,8513363325,87,55,67,81,58,348,Arts,Medical Science,3
+Bharathi School,Nisha Gupta,Architect,66550,9618146995,79,75,86,71,93,404,Commerce,Research,6
+Bharathi School,Naveen Sharma,Doctor,97265,7401763743,100,51,100,61,84,396,Commerce,Public Service,5
+Govt School,Ananya Murugan,Doctor,86510,8071765167,36,51,55,50,86,278,Arts,Technology,8
+Govt School,Akash Kumar,Driver,19448,8223217250,48,74,69,45,63,299,Arts,Technology,8
+St Joseph School,Sameer Kapoor,Business,58087,8926306469,58,61,72,69,74,334,Arts,Fine Arts,1
+St Joseph School,Simran Bose,Engineer,65737,6602642089,98,84,43,97,65,387,Maths Biology,Finance,0
+Govt School,Vijay Nair,Teacher,31302,7673560858,58,67,38,73,87,323,Arts,Public Service,5
+St Joseph School,Riya Choudhury,Farmer,28723,7480432940,76,94,76,76,50,372,Maths Biology,Finance,0
+Govt School,Ganesh Sharma,Driver,25093,7150790673,52,36,62,81,82,313,Arts,Sports Management,7
+PSG School,Kavita Deshmukh,Architect,88059,8801458332,92,39,66,57,39,293,Arts,Others,4
+St Joseph School,Suraj Sharma,Farmer,26310,7903192542,59,76,83,94,41,353,Commerce,Research,6
+Govt School,Bala Iyer,Shopkeeper,23406,6116350606,62,44,83,52,60,301,Commerce,Others,4
+St Joseph School,Nehal Shah,Business,68884,6935187421,56,49,74,51,49,279,Arts,Technology,8
+PSG School,Simran Murugan,Driver,16765,9588860111,31,46,47,41,81,246,Arts,Medical Science,3
+Govt School,Ananya Mehta,Doctor,71060,7546682733,59,90,75,98,92,414,Maths Biology,Medical Science,3
+Govt School,Manoj Murugan,Doctor,77479,7132189918,33,83,96,45,74,331,Maths Biology,Finance,0
+St Joseph School,Sunil Rajan,Farmer,25963,8899160748,52,71,37,45,53,258,Arts,Others,4
+Bharathi School,Kavita Kumar,Teacher,49181,9747818052,69,93,44,49,61,316,Maths Biology,Technology,8
+Bharathi School,Manoj Santhanam,Business,40811,8209672608,31,63,52,81,83,310,Arts,Fine Arts,1
+St Joseph School,Priya Mehta,Electrician,40690,9794595343,32,71,53,59,89,304,Arts,Others,4
+Govt School,Rajesh Gupta,Electrician,24827,7515017110,32,42,96,50,38,258,Commerce,Finance,0
+Bharathi School,Sunil Mishra,Business,63487,6499243126,51,44,68,55,84,302,Arts,Research,6
+Govt School,Vikram Das,Engineer,68940,6200116950,72,90,66,59,89,376,Maths Biology,Finance,0
+PSG School,Arun Das,Farmer,31772,6774952646,52,57,90,94,72,365,Commerce,Technology,8
+PSG School,Lakshmi Bose,Teacher,61738,6366905473,79,69,79,51,74,352,Commerce,Public Service,5
+Bharathi School,Akash Malhotra,Teacher,59439,8190591604,51,83,94,90,42,360,Maths Biology,Fine Arts,1
+Govt School,Shruti Bose,Business,51092,7883300007,72,84,63,65,79,363,Maths Biology,Technology,8
+St Joseph School,Abhishek Deshmukh,Architect,80366,6649683484,36,93,86,75,88,378,Maths Biology,Fine Arts,1
+Govt School,Sameer Iyer,Business,66944,9582762397,49,91,96,79,75,390,Maths Biology,Literature,2
+Govt School,Ravi Santhanam,Business,66782,8303652964,71,83,87,69,49,359,Maths Biology,Literature,2
+PSG School,Nisha Nair,Doctor,77404,6203084111,55,33,80,39,82,289,Commerce,Medical Science,3
+PSG School,Aditya Bose,Business,54235,8285979662,88,35,83,49,92,347,Commerce,Fine Arts,1
+Govt School,Ananya Kulkarni,Business,65071,8098267652,58,38,91,92,35,314,Commerce,Others,4
+Govt School,Kavita Pillai,Architect,92252,7435391425,96,40,93,43,48,320,Commerce,Research,6
+PSG School,Nisha Mehta,Teacher,45824,7991848327,100,96,84,59,71,410,Computer Science,Finance,0
+Govt School,Suresh Kapoor,Shopkeeper,29137,9215642868,77,85,45,60,67,334,Maths Biology,Literature,2
+Bharathi School,Vikram Choudhury,Electrician,25638,8285242922,34,52,46,45,68,245,Arts,Finance,0
+St Joseph School,Karthik Reddy,Doctor,54800,6628727887,70,62,37,100,83,352,Arts,Finance,0
+PSG School,Ishita Gopal,Business,79031,6347668125,75,55,78,67,54,329,Commerce,Research,6
+St Joseph School,Arun Joshi,Architect,63008,8349478530,81,84,93,62,72,392,Maths Biology,Technology,8
+Bharathi School,Lakshmi Murugan,Doctor,107832,7213666074,73,84,49,45,36,287,Maths Biology,Finance,0
+Bharathi School,Bala Malhotra,Driver,22116,8965805897,69,87,72,80,37,345,Maths Biology,Fine Arts,1
+St Joseph School,Suraj Mishra,Teacher,49728,7918589421,67,32,36,65,48,248,Arts,Research,6
+Govt School,Vikram Murugan,Electrician,27705,9402951606,45,36,66,38,92,277,Arts,Literature,2
+PSG School,Vijay Patel,Architect,103719,6888117394,70,97,59,77,89,392,Maths Biology,Public Service,5
+St Joseph School,Pooja Deshmukh,Shopkeeper,33170,7524065716,63,85,36,69,40,293,Maths Biology,Finance,0
+PSG School,Rahul Murugan,Business,60575,8912525135,58,51,63,79,66,317,Arts,Medical Science,3
+St Joseph School,Nehal Patel,Farmer,25929,7800554733,38,98,75,93,64,368,Maths Biology,Research,6
+St Joseph School,Vijay Malhotra,Teacher,40633,8139533628,87,90,68,43,42,330,Computer Science,Technology,8
+Bharathi School,Karan Rajan,Business,79615,7992794494,87,89,95,35,96,402,Computer Science,Sports Management,7
+Bharathi School,Naveen Gupta,Electrician,36338,6371656207,59,35,41,78,69,282,Arts,Literature,2
+St Joseph School,Ananya Pillai,Doctor,94446,6036517509,65,80,41,71,97,354,Maths Biology,Literature,2
+Govt School,Riya Gupta,Business,57028,8107108728,66,38,91,61,48,304,Commerce,Sports Management,7
+PSG School,Abhishek Mehta,Farmer,23265,8416497156,72,100,62,52,89,375,Maths Biology,Fine Arts,1
+St Joseph School,Rohan Yadav,Electrician,21724,9540095024,36,74,61,92,99,362,Arts,Public Service,5
+Govt School,Simran Rajan,Teacher,60383,7091770263,32,66,63,48,61,270,Arts,Literature,2
+Bharathi School,Amit Singh,Business,75886,6554674972,71,77,85,59,91,383,Commerce,Literature,2
+Govt School,Arun Santhanam,Doctor,88318,7552449162,90,89,53,86,65,383,Computer Science,Technology,8
+Bharathi School,Abhishek Kumar,Engineer,78663,9801535424,66,85,44,100,60,355,Maths Biology,Literature,2
+PSG School,Nehal Kumar,Driver,33120,9264391071,33,36,33,81,53,236,Arts,Research,6
+PSG School,Sneha Reddy,Teacher,53680,9097412031,59,69,71,79,38,316,Arts,Fine Arts,1
+Bharathi School,Ganesh Pillai,Electrician,32247,7474916314,47,91,65,96,58,357,Maths Biology,Public Service,5
+St Joseph School,Rohan Mehta,Electrician,30100,6309348125,90,67,40,74,89,360,Arts,Medical Science,3
+PSG School,Swati Nair,Teacher,44194,7166454772,38,63,71,59,81,312,Arts,Public Service,5
+Bharathi School,Sanjay Singh,Business,50017,9559597206,68,78,84,53,91,374,Commerce,Fine Arts,1
+Govt School,Vijay Kumar,Engineer,91813,7499824204,60,95,99,97,85,436,Maths Biology,Others,4
+Bharathi School,Vimal Kumar,Shopkeeper,27285,6121022789,38,48,79,99,99,363,Commerce,Research,6
+St Joseph School,Ajay Bose,Architect,56249,9852630479,85,40,48,93,56,322,Arts,Others,4
+PSG School,Deepa Joshi,Driver,26260,6126355499,85,39,38,94,44,300,Arts,Fine Arts,1
+Bharathi School,Vijay Murugan,Teacher,43413,8200274816,53,51,71,54,83,312,Arts,Technology,8
+PSG School,Priya Deshmukh,Shopkeeper,21445,6817680732,88,100,66,94,73,421,Computer Science,Medical Science,3
+Govt School,Prakash Kapoor,Farmer,32141,7439788961,87,85,75,79,57,383,Computer Science,Public Service,5
+PSG School,Suraj Deshmukh,Farmer,29960,7211094663,90,50,95,57,79,371,Commerce,Finance,0
+PSG School,Karan Pillai,Doctor,141840,9126313550,75,75,48,38,62,298,Arts,Public Service,5
+Bharathi School,Suraj Khan,Driver,29311,6489140998,71,52,58,79,71,331,Arts,Technology,8
+St Joseph School,Prakash Singh,Shopkeeper,37217,6966023688,69,81,73,42,48,313,Maths Biology,Medical Science,3
+St Joseph School,Sameer Gopal,Farmer,28831,8017452323,82,99,96,69,57,403,Maths Biology,Research,6
+Govt School,Ravi Choudhury,Business,50948,7856085285,100,87,73,44,45,349,Computer Science,Fine Arts,1
+Bharathi School,Nisha Pandey,Engineer,65194,6537254603,40,31,43,65,35,214,Arts,Fine Arts,1
+Govt School,Bala Patel,Engineer,70823,9859754350,42,31,59,72,75,279,Arts,Research,6
+St Joseph School,Ishita Singh,Driver,33659,9465871868,59,85,62,100,81,387,Maths Biology,Others,4
+Bharathi School,Priya Gupta,Doctor,117853,8584725496,55,74,99,96,51,375,Commerce,Medical Science,3
+PSG School,Sangeetha Gupta,Electrician,21906,8832754819,97,63,93,73,58,384,Commerce,Research,6
+Govt School,Ajay Murugan,Doctor,62840,7750834547,100,67,75,92,65,399,Commerce,Literature,2
+Govt School,Arun Pillai,Shopkeeper,38319,8000334467,52,34,42,52,92,272,Arts,Public Service,5
+Bharathi School,Ganesh Santhanam,Doctor,75295,8064824372,45,36,60,42,83,266,Arts,Technology,8
+Govt School,Aditya Kumar,Engineer,105051,9193100368,60,61,31,85,77,314,Arts,Research,6
+PSG School,Ajay Choudhury,Engineer,75872,9242081374,55,80,54,80,53,322,Maths Biology,Technology,8
+Bharathi School,Rajesh Gopal,Business,39354,6126517922,79,98,35,73,95,380,Maths Biology,Others,4
+PSG School,Simran Khan,Doctor,82037,7286839301,76,71,67,44,41,299,Arts,Others,4
+Govt School,Rahul Mishra,Architect,97110,6718148695,43,49,82,50,44,268,Commerce,Literature,2
+Bharathi School,Ravi Chawla,Electrician,19542,7534051367,79,100,56,85,71,391,Maths Biology,Fine Arts,1
+PSG School,Riya Sharma,Teacher,49366,6851339259,83,81,74,35,75,348,Maths Biology,Research,6
+Bharathi School,Bala Yadav,Driver,20546,9001640901,32,44,95,61,53,285,Commerce,Medical Science,3
+Govt School,Manish Gopal,Driver,23491,7296542431,46,98,30,85,53,312,Maths Biology,Fine Arts,1
+Govt School,Divya Joshi,Driver,16307,8398529447,70,67,38,48,36,259,Arts,Fine Arts,1
+Govt School,Bala Gopal,Engineer,64911,8724360062,81,74,87,100,71,413,Commerce,Medical Science,3
+Govt School,Shruti Verma,Electrician,30426,8935158352,37,71,79,89,78,354,Commerce,Public Service,5
+St Joseph School,Naveen Nair,Engineer,90685,9596573398,54,30,45,98,88,315,Arts,Others,4
+Bharathi School,Deepa Shah,Shopkeeper,28175,8070922516,76,77,56,50,53,312,Arts,Public Service,5
+St Joseph School,Ananya Menon,Electrician,30253,7835475109,74,52,32,65,47,270,Arts,Research,6
+Govt School,Rahul Kumar,Doctor,80881,9742597225,78,93,86,76,43,376,Maths Biology,Fine Arts,1
+Govt School,Bala Menon,Driver,22952,9376395524,85,63,36,97,61,342,Arts,Research,6
+PSG School,Rahul Pillai,Electrician,38926,6258407971,50,76,96,81,60,363,Commerce,Public Service,5
+St Joseph School,Manish Pandey,Doctor,75873,8592696245,71,88,52,56,86,353,Maths Biology,Others,4
+Bharathi School,Sameer Mishra,Architect,77784,7147906085,33,33,65,61,91,283,Arts,Finance,0
+PSG School,Rohan Bose,Business,97964,6468073065,33,59,69,79,64,304,Arts,Literature,2
+Bharathi School,Amit Pillai,Business,42607,9173918692,55,53,53,80,97,338,Arts,Research,6
+Bharathi School,Kavita Verma,Driver,22578,9349870225,49,32,78,81,66,306,Commerce,Research,6
+Govt School,Kiran Iyer,Farmer,27117,6990483045,90,72,31,47,65,305,Arts,Finance,0
+Bharathi School,Aishwarya Pandey,Electrician,43439,8303037411,47,91,95,45,97,375,Maths Biology,Public Service,5
+PSG School,Karthik Chawla,Engineer,68629,8107992317,100,35,98,48,79,360,Commerce,Research,6
+Govt School,Priya Bose,Farmer,23297,9038426791,91,37,31,99,92,350,Arts,Others,4
+Govt School,Anitha Mishra,Shopkeeper,33293,6711524526,97,52,58,72,77,356,Arts,Technology,8
+Bharathi School,Abhishek Chawla,Shopkeeper,43999,8132598434,52,51,54,97,87,341,Arts,Public Service,5
+Bharathi School,Manoj Deshmukh,Electrician,21913,7446313540,74,34,33,100,55,296,Arts,Public Service,5
+Govt School,Varun Malhotra,Teacher,57434,6732086659,57,93,58,70,83,361,Maths Biology,Literature,2
+PSG School,Manoj Rajan,Driver,17546,6550698942,63,60,55,81,68,327,Arts,Research,6
+Govt School,Vijay Santhanam,Shopkeeper,33290,8641847743,53,74,64,87,65,343,Arts,Fine Arts,1
+St Joseph School,Lakshmi Yadav,Farmer,34075,8754950110,95,66,34,82,76,353,Arts,Sports Management,7
+Bharathi School,Prakash Pillai,Architect,86121,9935000676,100,64,96,52,54,366,Commerce,Sports Management,7
+Govt School,Sameer Santhanam,Shopkeeper,34520,9046154560,85,74,34,89,47,329,Arts,Sports Management,7
+PSG School,Santhosh Bose,Farmer,24145,6591925473,33,69,98,53,40,293,Commerce,Literature,2
+Bharathi School,Anitha Gupta,Farmer,29224,8375425083,67,58,80,90,65,360,Commerce,Others,4
+Bharathi School,Naveen Khan,Teacher,61377,8681770307,87,80,84,42,72,365,Maths Biology,Sports Management,7
+Bharathi School,Santhosh Pandey,Architect,66488,6597483673,42,63,88,98,45,336,Commerce,Finance,0
+St Joseph School,Santhosh Reddy,Teacher,48864,8309229079,76,35,69,86,71,337,Arts,Medical Science,3
+PSG School,Manish Shah,Engineer,71581,8435490004,76,40,35,65,82,298,Arts,Public Service,5
+Bharathi School,Nehal Rajan,Electrician,36722,9450125337,78,70,84,53,64,349,Commerce,Others,4
+PSG School,Arun Gopal,Electrician,22133,7376181510,42,38,51,37,40,208,Arts,Fine Arts,1
+St Joseph School,Manoj Joshi,Doctor,68744,7092813188,60,89,87,95,72,403,Maths Biology,Medical Science,3
+PSG School,Manoj Das,Engineer,70622,8074060271,41,43,65,57,69,275,Arts,Literature,2
+PSG School,Akash Rajan,Architect,80972,7392616317,40,87,79,91,36,333,Maths Biology,Public Service,5
+St Joseph School,Divya Khan,Electrician,29798,7048044089,66,85,50,54,94,349,Maths Biology,Literature,2
+PSG School,Meena Verma,Teacher,57847,7398664706,81,30,45,60,89,305,Arts,Literature,2
+Bharathi School,Priya Pandey,Architect,77137,7955867597,31,78,83,100,50,342,Commerce,Finance,0
+Govt School,Mani Verma,Architect,85119,7235797587,61,65,86,67,71,350,Commerce,Technology,8
+Bharathi School,Karan Murugan,Teacher,46203,9825048574,49,84,50,35,74,292,Maths Biology,Technology,8
+PSG School,Aishwarya Kapoor,Business,43620,6712256245,78,35,67,73,45,298,Arts,Literature,2
+St Joseph School,Prakash Nair,Teacher,58190,9660417303,54,59,72,79,84,348,Arts,Sports Management,7
+Bharathi School,Amit Iyer,Electrician,25746,6340784739,35,71,83,65,84,338,Commerce,Medical Science,3
+St Joseph School,Suresh Murugan,Business,70037,7276758908,69,50,82,53,97,351,Commerce,Sports Management,7
+Govt School,Shruti Kulkarni,Engineer,70814,7204377154,38,33,91,59,35,256,Commerce,Research,6
+PSG School,Kiran Yadav,Shopkeeper,39004,6568846934,75,95,49,94,40,353,Maths Biology,Literature,2
+PSG School,Riya Menon,Engineer,73726,9245559222,97,79,53,35,48,312,Arts,Research,6
+PSG School,Ganesh Menon,Shopkeeper,33190,9846422829,96,87,58,43,87,371,Computer Science,Sports Management,7
+St Joseph School,Vikram Singh,Doctor,85406,9547872175,94,92,71,47,40,344,Computer Science,Research,6
+Govt School,Kavita Khan,Driver,23510,8784206538,46,97,35,40,98,316,Maths Biology,Literature,2
+PSG School,Naveen Yadav,Driver,32351,7402461602,66,36,59,62,73,296,Arts,Finance,0
+Govt School,Nehal Mishra,Architect,76661,8708517516,97,42,35,98,68,340,Arts,Technology,8
+Bharathi School,Rohan Singh,Business,76905,8279210046,44,41,77,92,93,347,Commerce,Medical Science,3
+PSG School,Sunil Gupta,Electrician,32504,8026587227,77,41,68,93,87,366,Arts,Research,6
+St Joseph School,Sangeetha Bose,Farmer,15207,7484636130,74,47,57,59,53,290,Arts,Literature,2
+Govt School,Riya Joshi,Doctor,97228,9703989583,32,71,34,55,61,253,Arts,Finance,0
+Bharathi School,Naveen Joshi,Driver,22049,9251931758,85,42,38,50,49,264,Arts,Others,4
+Govt School,Ganesh Rajan,Electrician,36539,9887458500,66,95,71,54,80,366,Maths Biology,Sports Management,7
+Bharathi School,Nisha Malhotra,Electrician,26780,8195464572,89,61,94,38,77,359,Commerce,Technology,8
+St Joseph School,Sameer Deshmukh,Architect,97422,6915549392,59,70,81,97,43,350,Commerce,Others,4
+Govt School,Priya Mishra,Farmer,25674,6946715921,47,76,90,87,95,395,Commerce,Literature,2
+Bharathi School,Rajesh Choudhury,Electrician,32869,8123099923,45,97,46,90,73,351,Maths Biology,Medical Science,3
+St Joseph School,Bala Santhanam,Engineer,69932,6865361928,44,54,45,71,84,298,Arts,Sports Management,7
+Bharathi School,Kiran Mishra,Farmer,24873,8281906498,67,82,72,71,42,334,Maths Biology,Finance,0
+Govt School,Sneha Santhanam,Architect,84871,7581931766,45,74,100,74,87,380,Commerce,Sports Management,7
+Govt School,Sanjay Joshi,Business,40561,8209057331,69,62,66,58,77,332,Arts,Others,4
+Bharathi School,Bala Deshmukh,Driver,25133,8548057330,70,31,37,49,88,275,Arts,Others,4
+St Joseph School,Rohan Sharma,Shopkeeper,40551,6011712722,56,35,43,45,67,246,Arts,Fine Arts,1
+Bharathi School,Ananya Malhotra,Engineer,95378,7331856661,80,85,55,61,52,333,Maths Biology,Sports Management,7
+Govt School,Karthik Singh,Teacher,60201,7031131963,96,89,52,46,77,360,Computer Science,Others,4
+PSG School,Swati Kulkarni,Farmer,33912,7988300264,74,62,42,99,76,353,Arts,Research,6

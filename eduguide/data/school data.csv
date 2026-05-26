@@ -1,0 +1,501 @@
+school_name,district,school_board,min_maths,min_science,course,annual_fee,transport,ranking,parents_salary_annual,student_location,school_location
+Green Valley Academy,Trichy,ICSE,85,85,Computer Science,43289,Bus,9,158369,RS Puram,KK Nagar
+Green Valley HSS,Coimbatore,ICSE,35,35,Arts,55495,Bus,9,113112,Anna Nagar,T. Nagar
+Little Flower International,Kanchipuram,State Board,35,35,Arts,131093,Bus,3,244194,Gandhinagar,Lakshmi Mills
+St. Joseph Academy,Madurai,ICSE,35,35,Arts,125072,Own Vehicle,2,228393,Velachery,Chromepet
+Sri Ram Academy,Tirunelveli,State Board,35,35,Arts,130791,Bus,8,217026,Velachery,Guindy
+Kendriya International,Coimbatore,State Board,85,85,Computer Science,133711,Own Vehicle,10,173158,Gandhipuram,Town Hall
+Green Valley School,Salem,CBSE,85,85,Computer Science,137108,Van,2,153736,RS Puram,T. Nagar
+Unity Academy,Madurai,State Board,35,35,Commerce,71566,Van,5,385929,Tambaram,Velachery
+Evergreen School,Thanjavur,ICSE,85,85,Computer Science,46417,Walk,7,145580,T. Nagar,Lakshmi Mills
+Holy Cross Academy,Chennai,ICSE,60,80,Maths Biology,132715,Bus,6,321208,Pallavaram,Velachery
+Sri Ram School,Kanchipuram,State Board,35,35,Commerce,52869,Walk,7,116663,Saidapet,Mylapore
+Oxford Academy,Madurai,ICSE,35,35,Arts,122647,Own Vehicle,10,115622,Adyar,Gandhipuram
+St. Joseph School,Madurai,IGCSE,35,35,Arts,36915,Bus,2,149123,Anna Nagar,Anna Nagar
+Aditya International,Kanchipuram,CBSE,60,80,Maths Biology,75432,Walk,10,214629,T. Nagar,Adyar
+Zenith HSS,Coimbatore,State Board,35,35,Commerce,125741,Own Vehicle,2,221981,Mylapore,Velachery
+Oxford International,Chennai,State Board,35,35,Arts,90612,Van,9,364951,Velachery,Besant Nagar
+Don Bosco Matric School,Kanchipuram,ICSE,35,35,Commerce,45032,Own Vehicle,3,113912,Chromepet,Guindy
+Evergreen Academy,Vellore,CBSE,85,85,Computer Science,39662,Own Vehicle,5,394254,Guindy,T. Nagar
+Little Flower Matric School,Coimbatore,CBSE,85,85,Computer Science,120932,Walk,2,204248,Anna Nagar,Kotturpuram
+Oxford International,Thanjavur,ICSE,60,80,Maths Biology,59741,Walk,4,385706,Tambaram,Saidapet
+Nightingale Academy,Erode,State Board,60,80,Maths Biology,82422,Walk,2,319949,Mylapore,Pallavaram
+Sri Ram Academy,Chennai,ICSE,60,80,Maths Biology,102128,Van,1,215574,Tambaram,Mylapore
+Little Flower HSS,Chennai,State Board,85,85,Computer Science,34287,Van,5,335514,Saidapet,Ambattur
+Little Flower Matric School,Madurai,IGCSE,35,35,Arts,56850,Walk,7,245852,Velachery,Besant Nagar
+Sri Ram International,Tirunelveli,IGCSE,85,85,Computer Science,78883,Walk,1,103407,Kotturpuram,Ambattur
+Green Valley International,Tirunelveli,CBSE,85,85,Computer Science,57591,Van,4,183707,Pallavaram,Velachery
+Oxford International,Madurai,State Board,35,35,Arts,85637,Van,2,321571,Gandhinagar,Gandhipuram
+Green Valley Matric School,Chennai,CBSE,85,85,Computer Science,146420,Van,3,278389,Anna Nagar,Anna Nagar
+Unity School,Erode,CBSE,35,35,Arts,46579,Walk,1,245684,KK Nagar,RS Puram
+Kendriya International,Salem,IGCSE,35,35,Commerce,116303,Walk,3,181516,Saidapet,Saidapet
+Little Flower HSS,Kanchipuram,CBSE,35,35,Commerce,123038,Own Vehicle,1,212886,Town Hall,Velachery
+Zenith Matric School,Madurai,CBSE,35,35,Arts,91562,Bus,3,276472,Gandhinagar,KK Nagar
+Holy Cross School,Erode,CBSE,85,85,Computer Science,148416,Van,10,153587,Gandhipuram,Chromepet
+Evergreen HSS,Erode,State Board,85,85,Computer Science,147513,Own Vehicle,4,148625,Mylapore,Kotturpuram
+Little Flower Academy,Erode,ICSE,35,35,Commerce,113039,Own Vehicle,8,299191,Town Hall,Adyar
+Green Valley International,Kanchipuram,CBSE,85,85,Computer Science,34602,Van,9,150707,RS Puram,Tambaram
+Kendriya Academy,Coimbatore,ICSE,60,80,Maths Biology,73434,Own Vehicle,3,288208,T. Nagar,Velachery
+Evergreen Matric School,Chennai,State Board,35,35,Commerce,147127,Bus,3,280331,Ambattur,RS Puram
+Kendriya HSS,Thanjavur,ICSE,85,85,Computer Science,60697,Own Vehicle,10,238685,RS Puram,Kotturpuram
+Little Flower Academy,Thanjavur,IGCSE,35,35,Commerce,57914,Bus,2,122780,Perambur,Gandhipuram
+Don Bosco Academy,Chennai,CBSE,35,35,Arts,68719,Van,5,340870,Perambur,Kotturpuram
+Zenith International,Thanjavur,CBSE,35,35,Arts,39663,Bus,3,381137,Guindy,Chromepet
+Don Bosco Academy,Kanchipuram,ICSE,85,85,Computer Science,81333,Van,1,165444,Gandhinagar,Tambaram
+Kendriya HSS,Tirunelveli,ICSE,35,35,Commerce,114399,Van,2,298461,Adyar,Guindy
+Evergreen School,Trichy,ICSE,35,35,Arts,129842,Van,7,141313,Kotturpuram,Town Hall
+Nightingale Academy,Erode,ICSE,60,80,Maths Biology,59970,Van,2,389428,Tambaram,Kotturpuram
+Don Bosco International,Trichy,ICSE,85,85,Computer Science,132031,Walk,6,253709,RS Puram,Guindy
+Little Flower HSS,Trichy,IGCSE,60,80,Maths Biology,68025,Own Vehicle,2,289600,Ambattur,Chromepet
+Holy Cross Matric School,Erode,State Board,35,35,Commerce,148107,Bus,2,200814,T. Nagar,Saidapet
+Evergreen Academy,Chennai,CBSE,60,80,Maths Biology,103193,Walk,6,136466,Tambaram,Tambaram
+Evergreen Matric School,Coimbatore,IGCSE,35,35,Arts,142899,Van,5,124025,Lakshmi Mills,Kotturpuram
+Green Valley Matric School,Thanjavur,ICSE,35,35,Arts,72739,Walk,2,219484,Guindy,KK Nagar
+Evergreen Academy,Coimbatore,State Board,35,35,Commerce,91469,Own Vehicle,7,251722,Perambur,Besant Nagar
+Nightingale Academy,Thanjavur,ICSE,35,35,Arts,50144,Walk,7,141833,Pallavaram,Kotturpuram
+Evergreen Matric School,Salem,IGCSE,60,80,Maths Biology,96819,Bus,5,222049,Mylapore,Gandhinagar
+Global Public Matric School,Kanchipuram,State Board,60,80,Maths Biology,85946,Walk,8,152953,T. Nagar,Velachery
+Zenith International,Madurai,CBSE,60,80,Maths Biology,62196,Own Vehicle,2,299295,Adyar,Gandhinagar
+Little Flower School,Madurai,CBSE,35,35,Commerce,31057,Van,8,245738,Velachery,Chromepet
+Unity International,Kanchipuram,ICSE,85,85,Computer Science,119155,Walk,8,337717,Lakshmi Mills,Besant Nagar
+Oxford HSS,Coimbatore,IGCSE,60,80,Maths Biology,53683,Van,9,291277,T. Nagar,Velachery
+Zenith School,Coimbatore,IGCSE,85,85,Computer Science,42477,Walk,9,185277,Velachery,Gandhinagar
+Aditya International,Kanchipuram,IGCSE,35,35,Commerce,133864,Walk,3,294081,RS Puram,Kotturpuram
+Bharathi School,Salem,IGCSE,35,35,Arts,107149,Van,5,286264,Ambattur,T. Nagar
+Nightingale Academy,Trichy,State Board,85,85,Computer Science,69020,Own Vehicle,9,209842,Gandhinagar,Lakshmi Mills
+Oxford School,Erode,ICSE,60,80,Maths Biology,117591,Van,2,239973,Kotturpuram,Velachery
+St. Joseph Matric School,Vellore,IGCSE,35,35,Arts,33161,Van,7,137435,Perambur,Gandhinagar
+Don Bosco Matric School,Erode,IGCSE,85,85,Computer Science,25772,Own Vehicle,5,189725,KK Nagar,Town Hall
+Zenith Matric School,Kanchipuram,ICSE,35,35,Arts,88993,Van,5,380043,Perambur,Town Hall
+Green Valley International,Tirunelveli,IGCSE,35,35,Arts,119919,Van,8,228351,Perambur,Tambaram
+Kendriya International,Kanchipuram,CBSE,85,85,Computer Science,36003,Walk,3,185669,Mylapore,T. Nagar
+Green Valley Academy,Erode,State Board,60,80,Maths Biology,52742,Walk,6,342357,Gandhinagar,Gandhipuram
+Bharathi International,Salem,CBSE,35,35,Arts,86644,Bus,9,298943,T. Nagar,Gandhipuram
+Little Flower HSS,Chennai,CBSE,35,35,Commerce,149467,Van,4,241530,Guindy,Velachery
+Little Flower School,Vellore,CBSE,60,80,Maths Biology,98920,Van,8,392002,KK Nagar,Ambattur
+Aditya Academy,Madurai,CBSE,35,35,Commerce,126946,Van,5,215141,Tambaram,Gandhipuram
+Kendriya Academy,Kanchipuram,IGCSE,85,85,Computer Science,76990,Van,2,270017,Velachery,Mylapore
+Sri Ram Academy,Kanchipuram,CBSE,60,80,Maths Biology,129363,Bus,6,129327,KK Nagar,T. Nagar
+Holy Cross Academy,Coimbatore,State Board,35,35,Arts,26658,Walk,8,220087,Kotturpuram,Saidapet
+St. Joseph International,Madurai,IGCSE,35,35,Arts,48086,Own Vehicle,10,116829,Ambattur,Saidapet
+Unity International,Kanchipuram,State Board,35,35,Arts,67245,Van,2,265388,Gandhinagar,Town Hall
+Little Flower International,Kanchipuram,IGCSE,35,35,Arts,69092,Bus,8,310325,Tambaram,Tambaram
+Unity School,Tirunelveli,State Board,60,80,Maths Biology,69608,Own Vehicle,10,240373,Velachery,Kotturpuram
+Zenith HSS,Thanjavur,ICSE,35,35,Commerce,36221,Van,7,134701,Town Hall,Saidapet
+Nightingale International,Vellore,IGCSE,60,80,Maths Biology,128931,Bus,2,210615,Adyar,Adyar
+Global Public School,Salem,State Board,60,80,Maths Biology,87031,Own Vehicle,7,397365,Velachery,Mylapore
+St. Joseph International,Salem,State Board,35,35,Commerce,57951,Van,2,264981,Adyar,Saidapet
+Sri Ram Matric School,Madurai,ICSE,35,35,Commerce,53361,Walk,5,211477,Town Hall,Ambattur
+Sri Ram School,Salem,ICSE,35,35,Commerce,72301,Van,5,361740,Ambattur,Pallavaram
+Bharathi HSS,Chennai,State Board,60,80,Maths Biology,116411,Van,8,307425,Gandhinagar,Anna Nagar
+Evergreen Academy,Vellore,IGCSE,85,85,Computer Science,82733,Own Vehicle,3,340570,T. Nagar,Pallavaram
+Don Bosco International,Coimbatore,CBSE,35,35,Commerce,77521,Walk,2,174905,Mylapore,Ambattur
+Oxford School,Kanchipuram,State Board,85,85,Computer Science,36164,Van,2,238873,Pallavaram,Besant Nagar
+Evergreen Matric School,Kanchipuram,ICSE,35,35,Arts,126671,Walk,8,173206,Town Hall,Anna Nagar
+Don Bosco Matric School,Erode,State Board,35,35,Commerce,99531,Bus,10,229303,Mylapore,Perambur
+Holy Cross School,Salem,CBSE,60,80,Maths Biology,45585,Van,3,394318,Besant Nagar,Lakshmi Mills
+Oxford HSS,Erode,IGCSE,85,85,Computer Science,115357,Walk,5,382579,Ambattur,Ambattur
+Bharathi Academy,Vellore,CBSE,60,80,Maths Biology,115096,Van,5,237752,Kotturpuram,Saidapet
+Global Public HSS,Thanjavur,ICSE,60,80,Maths Biology,109886,Van,5,324622,Gandhipuram,Tambaram
+Green Valley School,Salem,State Board,85,85,Computer Science,82560,Bus,8,309400,Gandhinagar,Tambaram
+Nightingale International,Salem,IGCSE,35,35,Commerce,82377,Bus,10,289790,Gandhipuram,Guindy
+Nightingale Academy,Kanchipuram,State Board,35,35,Arts,28390,Bus,4,214987,Velachery,Velachery
+Aditya Academy,Kanchipuram,CBSE,85,85,Computer Science,125022,Van,8,172525,Tambaram,Besant Nagar
+Kendriya Academy,Madurai,IGCSE,35,35,Arts,108202,Walk,2,367138,Tambaram,Velachery
+Global Public Academy,Tirunelveli,CBSE,35,35,Commerce,137424,Van,6,358744,Gandhinagar,Gandhinagar
+Bharathi International,Thanjavur,CBSE,35,35,Arts,84614,Bus,6,147662,Pallavaram,Saidapet
+Sri Ram International,Thanjavur,CBSE,35,35,Commerce,111200,Walk,7,124702,Saidapet,Besant Nagar
+Zenith Academy,Kanchipuram,IGCSE,60,80,Maths Biology,106973,Walk,1,157487,Pallavaram,Anna Nagar
+Zenith School,Salem,IGCSE,35,35,Commerce,140454,Walk,2,180132,Ambattur,Ambattur
+Nightingale School,Salem,CBSE,60,80,Maths Biology,97384,Walk,2,183876,Perambur,Town Hall
+Unity HSS,Madurai,IGCSE,85,85,Computer Science,147244,Own Vehicle,9,321333,Velachery,Ambattur
+Global Public International,Vellore,ICSE,35,35,Commerce,84871,Van,7,133306,Gandhipuram,KK Nagar
+Don Bosco HSS,Salem,IGCSE,60,80,Maths Biology,69548,Own Vehicle,1,301728,Chromepet,Kotturpuram
+Don Bosco Matric School,Kanchipuram,IGCSE,35,35,Commerce,138411,Van,8,300078,Besant Nagar,Gandhipuram
+St. Joseph Academy,Thanjavur,IGCSE,35,35,Arts,84682,Own Vehicle,4,345392,T. Nagar,Guindy
+Evergreen International,Trichy,IGCSE,60,80,Maths Biology,30720,Own Vehicle,8,377408,Adyar,Tambaram
+Global Public School,Vellore,CBSE,35,35,Arts,41547,Own Vehicle,2,231813,RS Puram,Anna Nagar
+Zenith International,Chennai,ICSE,85,85,Computer Science,78736,Van,2,390049,Gandhipuram,Ambattur
+St. Joseph Matric School,Erode,CBSE,35,35,Commerce,136642,Own Vehicle,9,106019,KK Nagar,Pallavaram
+Holy Cross International,Thanjavur,CBSE,35,35,Commerce,105931,Bus,4,160058,Saidapet,Pallavaram
+Little Flower HSS,Erode,CBSE,35,35,Commerce,124663,Bus,8,381527,Guindy,Anna Nagar
+Kendriya HSS,Chennai,State Board,35,35,Commerce,129352,Bus,5,239893,T. Nagar,T. Nagar
+Global Public School,Trichy,IGCSE,35,35,Commerce,99177,Van,3,278349,Ambattur,Saidapet
+Evergreen International,Kanchipuram,ICSE,85,85,Computer Science,90230,Van,4,158485,Ambattur,Gandhipuram
+Unity Academy,Chennai,IGCSE,35,35,Commerce,143123,Own Vehicle,9,253878,Guindy,Kotturpuram
+Unity Academy,Kanchipuram,State Board,85,85,Computer Science,108746,Walk,5,327942,Kotturpuram,KK Nagar
+Little Flower International,Vellore,CBSE,35,35,Commerce,56091,Walk,10,182920,Chromepet,Adyar
+Nightingale Academy,Chennai,IGCSE,35,35,Commerce,60976,Bus,10,337881,Gandhinagar,Gandhinagar
+Kendriya Matric School,Vellore,State Board,85,85,Computer Science,126677,Van,10,101701,Tambaram,Ambattur
+Holy Cross School,Kanchipuram,State Board,60,80,Maths Biology,113835,Van,2,238091,Anna Nagar,Town Hall
+Bharathi International,Chennai,State Board,85,85,Computer Science,120991,Van,2,362451,RS Puram,Mylapore
+Nightingale International,Madurai,ICSE,35,35,Commerce,42322,Own Vehicle,9,193665,Tambaram,Kotturpuram
+Don Bosco School,Salem,IGCSE,35,35,Commerce,130708,Own Vehicle,6,366171,Gandhinagar,Town Hall
+Sri Ram School,Trichy,IGCSE,35,35,Arts,135853,Own Vehicle,2,155789,Town Hall,Town Hall
+Bharathi Matric School,Coimbatore,IGCSE,85,85,Computer Science,73311,Own Vehicle,10,256471,RS Puram,Ambattur
+Sri Ram School,Vellore,CBSE,35,35,Commerce,106205,Own Vehicle,10,366161,Lakshmi Mills,Gandhinagar
+Holy Cross International,Salem,IGCSE,85,85,Computer Science,40292,Van,1,204286,Saidapet,Saidapet
+Unity HSS,Coimbatore,ICSE,35,35,Commerce,141294,Van,7,180131,KK Nagar,Gandhinagar
+Holy Cross Matric School,Erode,ICSE,35,35,Commerce,141052,Walk,2,296038,Kotturpuram,T. Nagar
+Bharathi HSS,Tirunelveli,ICSE,35,35,Arts,83115,Walk,4,184698,Anna Nagar,Besant Nagar
+Holy Cross Academy,Thanjavur,State Board,85,85,Computer Science,32936,Walk,5,382789,Gandhinagar,Anna Nagar
+Don Bosco International,Coimbatore,ICSE,85,85,Computer Science,109109,Bus,1,378058,Chromepet,Tambaram
+Oxford Matric School,Trichy,CBSE,60,80,Maths Biology,133765,Van,10,100299,KK Nagar,Adyar
+St. Joseph School,Kanchipuram,CBSE,60,80,Maths Biology,61342,Van,3,269951,Chromepet,Perambur
+Aditya School,Coimbatore,CBSE,35,35,Commerce,42275,Bus,6,356170,RS Puram,Velachery
+Green Valley School,Salem,CBSE,35,35,Commerce,41614,Walk,9,110211,Lakshmi Mills,T. Nagar
+Unity International,Tirunelveli,CBSE,85,85,Computer Science,84245,Van,10,158650,Chromepet,Adyar
+Unity HSS,Chennai,IGCSE,35,35,Commerce,136057,Walk,7,290306,Guindy,Anna Nagar
+Unity International,Coimbatore,CBSE,85,85,Computer Science,67219,Van,2,261225,Mylapore,Velachery
+Evergreen Matric School,Thanjavur,State Board,35,35,Commerce,74925,Own Vehicle,8,225541,Gandhipuram,Mylapore
+Sri Ram HSS,Thanjavur,ICSE,35,35,Arts,81370,Walk,4,130369,Perambur,Anna Nagar
+Don Bosco International,Erode,IGCSE,35,35,Commerce,120631,Bus,6,226286,KK Nagar,Guindy
+Holy Cross Academy,Tirunelveli,ICSE,35,35,Commerce,115023,Walk,2,397458,Tambaram,Gandhipuram
+Sri Ram International,Coimbatore,State Board,85,85,Computer Science,131400,Van,9,141291,Chromepet,Velachery
+Holy Cross HSS,Erode,State Board,35,35,Commerce,139505,Walk,1,144907,Anna Nagar,Gandhipuram
+St. Joseph HSS,Kanchipuram,ICSE,35,35,Commerce,45280,Walk,4,354798,Guindy,Besant Nagar
+Don Bosco Matric School,Tirunelveli,CBSE,35,35,Commerce,124956,Own Vehicle,10,136287,Town Hall,RS Puram
+Don Bosco Matric School,Kanchipuram,CBSE,35,35,Arts,104822,Own Vehicle,1,379291,Besant Nagar,Pallavaram
+Nightingale Academy,Tirunelveli,State Board,35,35,Commerce,25800,Van,3,165934,Anna Nagar,Mylapore
+Sri Ram School,Chennai,CBSE,35,35,Arts,122794,Van,7,167314,RS Puram,Kotturpuram
+St. Joseph School,Tirunelveli,State Board,35,35,Arts,119581,Own Vehicle,10,349184,Perambur,Gandhinagar
+Kendriya HSS,Madurai,ICSE,85,85,Computer Science,123885,Bus,2,388255,Lakshmi Mills,Perambur
+Holy Cross International,Vellore,IGCSE,35,35,Arts,79287,Own Vehicle,4,186574,Velachery,KK Nagar
+St. Joseph International,Coimbatore,State Board,85,85,Computer Science,113895,Walk,9,238966,Adyar,Guindy
+Green Valley School,Erode,CBSE,35,35,Commerce,26007,Van,5,376653,Velachery,Guindy
+Aditya Academy,Salem,State Board,60,80,Maths Biology,40726,Bus,8,321846,Pallavaram,RS Puram
+Oxford International,Thanjavur,ICSE,60,80,Maths Biology,90570,Own Vehicle,2,211043,T. Nagar,KK Nagar
+Global Public HSS,Vellore,CBSE,85,85,Computer Science,137998,Own Vehicle,10,382746,T. Nagar,Lakshmi Mills
+Nightingale International,Salem,CBSE,35,35,Arts,78088,Bus,6,205461,Besant Nagar,RS Puram
+Don Bosco Academy,Coimbatore,IGCSE,35,35,Arts,135688,Bus,4,263429,T. Nagar,Pallavaram
+Zenith HSS,Erode,State Board,35,35,Arts,122754,Own Vehicle,4,309186,Tambaram,Anna Nagar
+Sri Ram Matric School,Coimbatore,ICSE,60,80,Maths Biology,143741,Own Vehicle,6,295779,Gandhipuram,Lakshmi Mills
+Little Flower HSS,Madurai,State Board,60,80,Maths Biology,50856,Van,10,329690,Gandhipuram,Pallavaram
+Oxford International,Vellore,IGCSE,85,85,Computer Science,114277,Own Vehicle,6,371358,Besant Nagar,Ambattur
+Sri Ram International,Vellore,State Board,35,35,Arts,129376,Own Vehicle,10,336708,Tambaram,Ambattur
+Zenith HSS,Salem,IGCSE,35,35,Commerce,84233,Bus,1,163441,KK Nagar,Mylapore
+Sri Ram HSS,Kanchipuram,IGCSE,35,35,Commerce,85648,Bus,8,229973,Gandhinagar,T. Nagar
+St. Joseph Matric School,Vellore,ICSE,60,80,Maths Biology,33109,Walk,2,217806,Chromepet,Pallavaram
+Zenith School,Chennai,ICSE,85,85,Computer Science,117749,Walk,8,133568,Guindy,Velachery
+St. Joseph Academy,Salem,IGCSE,60,80,Maths Biology,78578,Own Vehicle,10,277254,Saidapet,RS Puram
+Sri Ram Academy,Coimbatore,IGCSE,35,35,Commerce,62243,Own Vehicle,10,111028,Mylapore,Lakshmi Mills
+Sri Ram Matric School,Madurai,State Board,35,35,Commerce,65662,Walk,3,390414,Tambaram,Guindy
+Bharathi Matric School,Erode,State Board,85,85,Computer Science,131585,Van,9,220646,Mylapore,RS Puram
+Zenith Academy,Chennai,State Board,35,35,Arts,65483,Van,4,215457,Lakshmi Mills,Pallavaram
+Little Flower School,Madurai,ICSE,35,35,Arts,35114,Own Vehicle,2,103770,Ambattur,Adyar
+Holy Cross Academy,Kanchipuram,ICSE,85,85,Computer Science,103282,Walk,3,137220,Perambur,Perambur
+Don Bosco Matric School,Madurai,IGCSE,60,80,Maths Biology,30726,Walk,6,130866,Kotturpuram,Tambaram
+Unity Matric School,Salem,IGCSE,60,80,Maths Biology,55671,Van,5,220031,Chromepet,Saidapet
+St. Joseph Matric School,Vellore,IGCSE,60,80,Maths Biology,125851,Own Vehicle,7,135337,Kotturpuram,Perambur
+Oxford School,Kanchipuram,ICSE,35,35,Arts,139426,Own Vehicle,1,116469,RS Puram,T. Nagar
+Don Bosco Academy,Thanjavur,CBSE,35,35,Arts,118244,Bus,5,273239,Velachery,Chromepet
+Bharathi International,Thanjavur,ICSE,60,80,Maths Biology,133926,Walk,2,137149,Velachery,Town Hall
+Kendriya Academy,Chennai,IGCSE,35,35,Arts,31980,Walk,9,369565,T. Nagar,Anna Nagar
+Global Public HSS,Tirunelveli,ICSE,60,80,Maths Biology,28694,Own Vehicle,2,224782,Town Hall,Saidapet
+Aditya School,Madurai,CBSE,35,35,Commerce,62601,Walk,3,246002,Anna Nagar,Besant Nagar
+Unity Matric School,Chennai,CBSE,35,35,Arts,27490,Own Vehicle,4,354496,Pallavaram,RS Puram
+Sri Ram Academy,Trichy,State Board,35,35,Arts,40970,Bus,4,212321,Tambaram,Saidapet
+Sri Ram HSS,Vellore,CBSE,35,35,Arts,107831,Van,3,382713,Velachery,Perambur
+Green Valley Matric School,Tirunelveli,ICSE,35,35,Arts,99798,Walk,3,169369,Pallavaram,Kotturpuram
+Zenith Academy,Coimbatore,CBSE,85,85,Computer Science,76177,Walk,1,399391,Velachery,Gandhipuram
+St. Joseph Academy,Chennai,State Board,35,35,Arts,128352,Bus,6,347815,Anna Nagar,Saidapet
+Aditya Matric School,Tirunelveli,ICSE,85,85,Computer Science,30811,Own Vehicle,9,227400,T. Nagar,KK Nagar
+Don Bosco International,Vellore,ICSE,60,80,Maths Biology,131364,Van,2,347974,Adyar,Chromepet
+Bharathi School,Chennai,ICSE,85,85,Computer Science,141102,Bus,6,313416,Velachery,Gandhinagar
+Don Bosco Matric School,Vellore,State Board,35,35,Arts,29799,Van,5,199829,T. Nagar,Guindy
+Don Bosco Academy,Salem,CBSE,85,85,Computer Science,129771,Own Vehicle,7,149453,Adyar,Tambaram
+Kendriya International,Tirunelveli,ICSE,35,35,Arts,90038,Walk,6,150819,Town Hall,Besant Nagar
+Aditya HSS,Erode,CBSE,35,35,Commerce,81440,Van,9,325994,T. Nagar,Kotturpuram
+Sri Ram HSS,Tirunelveli,State Board,35,35,Commerce,65173,Walk,10,285753,Chromepet,Saidapet
+Nightingale International,Tirunelveli,IGCSE,60,80,Maths Biology,30551,Own Vehicle,10,322077,Velachery,Pallavaram
+Holy Cross HSS,Coimbatore,IGCSE,35,35,Commerce,72619,Van,1,315535,Gandhinagar,Gandhinagar
+Green Valley School,Coimbatore,ICSE,35,35,Arts,127041,Own Vehicle,6,344855,Besant Nagar,Town Hall
+Evergreen School,Vellore,State Board,85,85,Computer Science,73760,Walk,2,128401,Mylapore,Velachery
+Zenith Academy,Erode,State Board,60,80,Maths Biology,110139,Own Vehicle,4,151599,Tambaram,T. Nagar
+Nightingale School,Vellore,IGCSE,85,85,Computer Science,144739,Bus,5,131778,Gandhipuram,Gandhinagar
+Little Flower Matric School,Salem,IGCSE,35,35,Arts,51237,Bus,3,311089,Pallavaram,Kotturpuram
+Oxford International,Coimbatore,State Board,35,35,Arts,112535,Own Vehicle,2,277892,Pallavaram,Velachery
+Kendriya Academy,Madurai,ICSE,35,35,Commerce,129031,Own Vehicle,9,157288,Besant Nagar,Kotturpuram
+Little Flower School,Trichy,IGCSE,85,85,Computer Science,28445,Own Vehicle,9,230367,Velachery,Pallavaram
+Unity Matric School,Madurai,CBSE,35,35,Commerce,33617,Own Vehicle,7,200448,Besant Nagar,Guindy
+Aditya International,Kanchipuram,CBSE,35,35,Arts,41426,Own Vehicle,2,199724,Saidapet,Ambattur
+Holy Cross Matric School,Tirunelveli,ICSE,35,35,Arts,140075,Van,3,381168,Mylapore,Town Hall
+Don Bosco HSS,Thanjavur,ICSE,85,85,Computer Science,64862,Van,3,335202,RS Puram,Anna Nagar
+St. Joseph Matric School,Salem,CBSE,60,80,Maths Biology,57847,Van,9,173495,RS Puram,Besant Nagar
+Holy Cross Academy,Kanchipuram,CBSE,60,80,Maths Biology,90873,Van,10,321187,Saidapet,Town Hall
+Oxford Matric School,Kanchipuram,State Board,60,80,Maths Biology,135432,Bus,1,196200,Perambur,KK Nagar
+Holy Cross Matric School,Salem,ICSE,85,85,Computer Science,125526,Walk,10,246037,Saidapet,Besant Nagar
+Unity Matric School,Salem,State Board,85,85,Computer Science,88300,Van,7,342550,Saidapet,Mylapore
+Sri Ram HSS,Madurai,IGCSE,35,35,Arts,79476,Walk,8,230970,Kotturpuram,Perambur
+Evergreen School,Tirunelveli,State Board,35,35,Commerce,121233,Own Vehicle,7,139523,Adyar,Gandhinagar
+Zenith Matric School,Coimbatore,State Board,35,35,Commerce,56685,Walk,2,332328,RS Puram,Town Hall
+Little Flower School,Coimbatore,CBSE,35,35,Arts,63038,Walk,10,388528,Adyar,Gandhinagar
+Don Bosco School,Tirunelveli,State Board,60,80,Maths Biology,49881,Van,8,151332,Ambattur,Guindy
+Unity Academy,Vellore,CBSE,35,35,Arts,36802,Walk,9,126522,Town Hall,Gandhinagar
+Little Flower Matric School,Tirunelveli,CBSE,60,80,Maths Biology,31624,Own Vehicle,8,383423,RS Puram,Tambaram
+Bharathi Matric School,Chennai,CBSE,35,35,Arts,81482,Van,5,107737,Velachery,Anna Nagar
+St. Joseph HSS,Erode,CBSE,35,35,Arts,99747,Van,6,148896,Mylapore,Chromepet
+Sri Ram International,Thanjavur,IGCSE,35,35,Commerce,125191,Own Vehicle,10,223930,Mylapore,Mylapore
+Oxford HSS,Erode,State Board,85,85,Computer Science,129188,Own Vehicle,9,187194,Tambaram,T. Nagar
+Little Flower Matric School,Thanjavur,IGCSE,60,80,Maths Biology,90546,Bus,1,313078,Kotturpuram,Velachery
+Nightingale Academy,Vellore,IGCSE,60,80,Maths Biology,44521,Van,6,354615,Gandhipuram,Saidapet
+Oxford International,Kanchipuram,State Board,35,35,Commerce,102820,Own Vehicle,9,352370,Saidapet,Besant Nagar
+Nightingale Matric School,Salem,IGCSE,35,35,Arts,131921,Bus,6,212065,KK Nagar,Tambaram
+Global Public Matric School,Salem,CBSE,85,85,Computer Science,103238,Walk,5,310260,Gandhinagar,Velachery
+Nightingale HSS,Kanchipuram,IGCSE,60,80,Maths Biology,47349,Walk,3,130741,Kotturpuram,Besant Nagar
+Green Valley Matric School,Coimbatore,ICSE,60,80,Maths Biology,27482,Walk,6,186317,Velachery,Besant Nagar
+Global Public School,Erode,IGCSE,60,80,Maths Biology,139401,Bus,3,298691,T. Nagar,Kotturpuram
+Zenith Academy,Vellore,IGCSE,60,80,Maths Biology,66124,Van,8,101130,Kotturpuram,Anna Nagar
+Zenith Academy,Salem,IGCSE,35,35,Commerce,50200,Van,5,304693,Tambaram,T. Nagar
+Little Flower Academy,Salem,ICSE,35,35,Commerce,115471,Walk,6,239042,RS Puram,Lakshmi Mills
+Zenith Academy,Salem,CBSE,35,35,Commerce,100166,Walk,7,338555,Adyar,Velachery
+Bharathi HSS,Salem,CBSE,60,80,Maths Biology,70398,Walk,5,249552,Tambaram,Ambattur
+Little Flower Matric School,Salem,State Board,60,80,Maths Biology,42992,Bus,10,321777,Anna Nagar,Velachery
+Little Flower HSS,Thanjavur,ICSE,60,80,Maths Biology,108616,Van,1,391382,T. Nagar,Lakshmi Mills
+St. Joseph International,Coimbatore,ICSE,35,35,Arts,25679,Van,7,355155,Velachery,Pallavaram
+Unity School,Salem,State Board,35,35,Arts,62409,Bus,2,181158,KK Nagar,Perambur
+Zenith HSS,Madurai,IGCSE,60,80,Maths Biology,140637,Van,1,199561,Saidapet,Besant Nagar
+Oxford Academy,Chennai,CBSE,35,35,Arts,64110,Bus,6,255560,Besant Nagar,Tambaram
+Holy Cross Matric School,Thanjavur,IGCSE,35,35,Arts,141557,Van,9,214137,Besant Nagar,Chromepet
+Little Flower HSS,Tirunelveli,ICSE,35,35,Commerce,120829,Walk,5,130662,Mylapore,Perambur
+Nightingale Academy,Salem,ICSE,85,85,Computer Science,48002,Walk,7,384266,Ambattur,Saidapet
+Sri Ram International,Coimbatore,ICSE,35,35,Commerce,43430,Walk,6,131959,Adyar,Tambaram
+Bharathi International,Trichy,IGCSE,85,85,Computer Science,123796,Own Vehicle,6,264419,KK Nagar,Town Hall
+Bharathi Academy,Trichy,CBSE,85,85,Computer Science,112528,Bus,8,129971,Ambattur,Perambur
+Global Public Matric School,Salem,CBSE,60,80,Maths Biology,108717,Own Vehicle,6,126289,Anna Nagar,Kotturpuram
+Little Flower School,Vellore,ICSE,60,80,Maths Biology,84634,Own Vehicle,7,349974,Ambattur,Gandhinagar
+Aditya Matric School,Trichy,ICSE,35,35,Arts,114173,Bus,9,363638,Gandhinagar,Lakshmi Mills
+Sri Ram Matric School,Coimbatore,CBSE,35,35,Commerce,133629,Van,10,378463,Kotturpuram,Gandhinagar
+Oxford Academy,Thanjavur,IGCSE,60,80,Maths Biology,40235,Van,10,182540,Lakshmi Mills,Velachery
+Kendriya Matric School,Vellore,CBSE,85,85,Computer Science,84432,Van,9,129821,Saidapet,RS Puram
+Evergreen HSS,Thanjavur,IGCSE,35,35,Arts,113181,Own Vehicle,1,366248,Tambaram,Mylapore
+Don Bosco HSS,Trichy,CBSE,35,35,Commerce,30936,Walk,6,142001,Besant Nagar,Town Hall
+Zenith HSS,Coimbatore,IGCSE,85,85,Computer Science,29159,Own Vehicle,7,197425,Gandhipuram,RS Puram
+Aditya International,Tirunelveli,IGCSE,60,80,Maths Biology,83790,Walk,7,135924,Mylapore,Tambaram
+Holy Cross Academy,Coimbatore,ICSE,60,80,Maths Biology,95419,Walk,9,135631,Lakshmi Mills,KK Nagar
+Don Bosco HSS,Chennai,State Board,60,80,Maths Biology,85686,Walk,9,223314,Mylapore,Mylapore
+Little Flower International,Tirunelveli,ICSE,60,80,Maths Biology,61129,Van,2,311694,Adyar,Mylapore
+Evergreen HSS,Trichy,ICSE,35,35,Arts,33819,Bus,10,162855,Pallavaram,Besant Nagar
+Evergreen HSS,Trichy,CBSE,35,35,Arts,77725,Walk,4,398673,Tambaram,Gandhinagar
+Aditya HSS,Madurai,State Board,60,80,Maths Biology,55692,Own Vehicle,10,229087,Adyar,Pallavaram
+Little Flower Academy,Madurai,ICSE,35,35,Commerce,79206,Own Vehicle,5,120836,Town Hall,Chromepet
+Holy Cross International,Thanjavur,IGCSE,60,80,Maths Biology,31145,Own Vehicle,7,142982,Adyar,Guindy
+Nightingale International,Erode,ICSE,35,35,Commerce,64306,Walk,3,319794,Adyar,Lakshmi Mills
+Little Flower School,Salem,ICSE,35,35,Arts,130614,Walk,1,396341,Pallavaram,RS Puram
+Global Public Matric School,Thanjavur,ICSE,35,35,Arts,75910,Van,5,374088,Besant Nagar,Mylapore
+Holy Cross HSS,Vellore,State Board,35,35,Commerce,37119,Van,1,265868,Chromepet,Lakshmi Mills
+Holy Cross Matric School,Kanchipuram,CBSE,35,35,Arts,139507,Bus,4,236716,Chromepet,Velachery
+Unity School,Tirunelveli,State Board,60,80,Maths Biology,144143,Bus,4,207090,KK Nagar,Perambur
+Nightingale International,Trichy,ICSE,85,85,Computer Science,76987,Van,9,264722,Adyar,KK Nagar
+Global Public International,Thanjavur,State Board,35,35,Commerce,65425,Own Vehicle,6,225140,Chromepet,Lakshmi Mills
+Unity HSS,Vellore,State Board,35,35,Arts,144843,Van,6,239258,T. Nagar,Anna Nagar
+Green Valley Matric School,Trichy,ICSE,35,35,Arts,27125,Own Vehicle,9,307505,KK Nagar,Tambaram
+Bharathi School,Trichy,State Board,35,35,Arts,55149,Walk,10,168617,T. Nagar,Gandhipuram
+Zenith Academy,Salem,IGCSE,35,35,Arts,119838,Walk,8,257284,Guindy,Gandhinagar
+Oxford School,Thanjavur,IGCSE,35,35,Commerce,49123,Bus,9,339717,T. Nagar,Adyar
+Don Bosco HSS,Chennai,IGCSE,85,85,Computer Science,43021,Van,2,265767,Velachery,Adyar
+Green Valley School,Thanjavur,IGCSE,60,80,Maths Biology,73916,Bus,10,138033,Ambattur,Tambaram
+Holy Cross International,Chennai,CBSE,35,35,Arts,94758,Walk,1,104883,RS Puram,Lakshmi Mills
+Zenith Academy,Chennai,IGCSE,35,35,Commerce,130666,Van,2,340273,Pallavaram,Gandhipuram
+Little Flower School,Kanchipuram,State Board,60,80,Maths Biology,131851,Own Vehicle,5,395170,Velachery,Besant Nagar
+St. Joseph International,Vellore,ICSE,85,85,Computer Science,116388,Van,5,152418,Pallavaram,RS Puram
+Holy Cross HSS,Coimbatore,IGCSE,85,85,Computer Science,74710,Walk,9,138409,Guindy,Anna Nagar
+Holy Cross HSS,Madurai,CBSE,85,85,Computer Science,90517,Walk,6,381875,Adyar,Pallavaram
+Kendriya Matric School,Chennai,ICSE,85,85,Computer Science,52710,Walk,5,211754,Guindy,Lakshmi Mills
+Holy Cross Academy,Thanjavur,CBSE,85,85,Computer Science,48508,Own Vehicle,1,365229,T. Nagar,Besant Nagar
+Aditya International,Coimbatore,State Board,60,80,Maths Biology,46292,Van,10,239041,Saidapet,Besant Nagar
+Global Public School,Coimbatore,State Board,35,35,Commerce,32038,Bus,7,169445,Pallavaram,Kotturpuram
+St. Joseph Matric School,Kanchipuram,IGCSE,85,85,Computer Science,126391,Own Vehicle,1,282981,Pallavaram,Town Hall
+Aditya International,Vellore,ICSE,35,35,Commerce,71636,Walk,7,136066,Chromepet,KK Nagar
+Sri Ram Matric School,Salem,ICSE,35,35,Arts,118468,Bus,2,228075,Town Hall,Adyar
+Global Public School,Erode,State Board,60,80,Maths Biology,72277,Bus,2,293738,Gandhinagar,Gandhinagar
+Unity Academy,Salem,CBSE,35,35,Commerce,42367,Bus,3,249415,Mylapore,Besant Nagar
+Zenith Matric School,Thanjavur,IGCSE,35,35,Arts,38538,Bus,2,182704,Town Hall,RS Puram
+Evergreen Matric School,Tirunelveli,IGCSE,85,85,Computer Science,26617,Own Vehicle,7,329734,Velachery,T. Nagar
+Nightingale Matric School,Trichy,ICSE,85,85,Computer Science,114825,Walk,3,384802,Gandhinagar,Ambattur
+Bharathi Academy,Vellore,ICSE,35,35,Commerce,33292,Van,7,258606,Ambattur,Besant Nagar
+Bharathi International,Coimbatore,State Board,35,35,Arts,57990,Van,8,377317,Gandhipuram,T. Nagar
+Unity HSS,Madurai,State Board,60,80,Maths Biology,25887,Walk,6,104101,Lakshmi Mills,Pallavaram
+Aditya Academy,Vellore,State Board,35,35,Arts,81441,Van,5,390771,Kotturpuram,Adyar
+Unity Academy,Madurai,IGCSE,60,80,Maths Biology,66830,Own Vehicle,8,256960,Town Hall,Gandhipuram
+St. Joseph International,Salem,IGCSE,60,80,Maths Biology,72843,Bus,10,154309,T. Nagar,Gandhipuram
+Holy Cross Matric School,Chennai,IGCSE,60,80,Maths Biology,148597,Van,8,170407,Anna Nagar,Pallavaram
+Don Bosco International,Vellore,ICSE,85,85,Computer Science,108012,Own Vehicle,4,238656,Kotturpuram,Lakshmi Mills
+Nightingale International,Erode,CBSE,60,80,Maths Biology,83860,Walk,10,160517,Guindy,T. Nagar
+Zenith HSS,Tirunelveli,CBSE,35,35,Arts,39335,Van,6,156117,Pallavaram,Velachery
+Evergreen International,Tirunelveli,IGCSE,85,85,Computer Science,38886,Bus,2,390048,RS Puram,RS Puram
+Zenith Matric School,Thanjavur,ICSE,60,80,Maths Biology,83429,Own Vehicle,7,181499,T. Nagar,Tambaram
+St. Joseph HSS,Vellore,CBSE,60,80,Maths Biology,63722,Walk,2,242788,Tambaram,Saidapet
+St. Joseph Academy,Tirunelveli,IGCSE,60,80,Maths Biology,127795,Van,9,247721,Mylapore,Guindy
+Unity HSS,Vellore,IGCSE,35,35,Commerce,66800,Bus,5,210430,Chromepet,Guindy
+Green Valley Academy,Coimbatore,ICSE,85,85,Computer Science,146886,Van,9,279768,Gandhinagar,Guindy
+St. Joseph Matric School,Erode,IGCSE,60,80,Maths Biology,55389,Walk,3,206743,Gandhipuram,Velachery
+Global Public HSS,Kanchipuram,ICSE,35,35,Arts,83926,Walk,7,238403,Perambur,Chromepet
+Little Flower Academy,Coimbatore,CBSE,60,80,Maths Biology,129792,Van,6,364979,T. Nagar,Ambattur
+Unity HSS,Salem,IGCSE,60,80,Maths Biology,94168,Own Vehicle,10,356131,Velachery,Kotturpuram
+Evergreen HSS,Tirunelveli,State Board,35,35,Arts,135823,Walk,10,231659,Perambur,Kotturpuram
+Kendriya Matric School,Kanchipuram,CBSE,35,35,Commerce,113094,Van,6,126633,Lakshmi Mills,Lakshmi Mills
+Bharathi HSS,Madurai,State Board,60,80,Maths Biology,115890,Van,9,148390,KK Nagar,Pallavaram
+Evergreen School,Kanchipuram,IGCSE,35,35,Arts,80448,Van,8,322075,Kotturpuram,Saidapet
+Zenith School,Vellore,State Board,60,80,Maths Biology,43388,Van,6,245060,Tambaram,Lakshmi Mills
+Don Bosco Academy,Chennai,IGCSE,85,85,Computer Science,42895,Van,7,123114,Lakshmi Mills,Pallavaram
+Global Public International,Erode,IGCSE,35,35,Arts,89054,Van,2,101858,Guindy,Guindy
+Aditya School,Salem,CBSE,85,85,Computer Science,61025,Van,9,274879,Chromepet,Adyar
+Aditya International,Kanchipuram,IGCSE,60,80,Maths Biology,97053,Bus,10,168587,Anna Nagar,Guindy
+Aditya Matric School,Tirunelveli,CBSE,35,35,Commerce,124615,Walk,9,237340,Tambaram,RS Puram
+Sri Ram School,Salem,CBSE,35,35,Arts,83947,Own Vehicle,6,184715,Lakshmi Mills,Mylapore
+Don Bosco HSS,Trichy,ICSE,35,35,Arts,131260,Own Vehicle,10,331649,RS Puram,Mylapore
+Oxford Matric School,Madurai,ICSE,35,35,Arts,131630,Van,1,389239,Gandhipuram,Gandhinagar
+Zenith Academy,Kanchipuram,ICSE,35,35,Commerce,67421,Own Vehicle,5,324231,Gandhinagar,T. Nagar
+Don Bosco Matric School,Coimbatore,ICSE,35,35,Commerce,123316,Walk,1,394076,RS Puram,KK Nagar
+Nightingale School,Trichy,ICSE,60,80,Maths Biology,118243,Own Vehicle,4,105069,RS Puram,Velachery
+Unity School,Kanchipuram,State Board,35,35,Arts,107288,Walk,7,158654,Tambaram,KK Nagar
+Holy Cross HSS,Erode,State Board,85,85,Computer Science,116056,Own Vehicle,8,139449,Gandhipuram,Tambaram
+Evergreen HSS,Coimbatore,IGCSE,35,35,Commerce,108209,Own Vehicle,2,178147,Gandhinagar,T. Nagar
+Little Flower International,Trichy,IGCSE,35,35,Arts,60197,Own Vehicle,5,386046,Lakshmi Mills,KK Nagar
+Evergreen International,Tirunelveli,CBSE,60,80,Maths Biology,31021,Bus,8,118889,Guindy,Anna Nagar
+Kendriya School,Vellore,IGCSE,85,85,Computer Science,25088,Walk,4,293575,Mylapore,Saidapet
+Kendriya Academy,Madurai,State Board,60,80,Maths Biology,37234,Own Vehicle,5,389682,Town Hall,Kotturpuram
+Holy Cross School,Chennai,IGCSE,35,35,Commerce,106999,Own Vehicle,4,177643,Mylapore,Guindy
+Nightingale HSS,Chennai,ICSE,85,85,Computer Science,87496,Bus,3,325332,Gandhinagar,Besant Nagar
+Zenith International,Chennai,CBSE,60,80,Maths Biology,116173,Own Vehicle,2,166818,Chromepet,Lakshmi Mills
+Unity HSS,Trichy,IGCSE,60,80,Maths Biology,36708,Bus,2,121930,Besant Nagar,Adyar
+Kendriya Academy,Madurai,IGCSE,35,35,Commerce,126379,Van,3,261616,Gandhinagar,Velachery
+Evergreen School,Vellore,State Board,85,85,Computer Science,119690,Van,3,291182,Adyar,Lakshmi Mills
+Don Bosco School,Coimbatore,CBSE,35,35,Arts,43351,Bus,10,120916,T. Nagar,Lakshmi Mills
+Global Public Academy,Madurai,ICSE,35,35,Commerce,61302,Bus,4,287595,Saidapet,Kotturpuram
+Aditya HSS,Salem,ICSE,35,35,Commerce,92862,Van,7,210140,Gandhinagar,T. Nagar
+Aditya School,Vellore,IGCSE,85,85,Computer Science,39777,Van,8,230825,Adyar,Velachery
+Zenith HSS,Tirunelveli,State Board,85,85,Computer Science,42299,Walk,10,153893,Anna Nagar,Gandhinagar
+Zenith School,Vellore,CBSE,35,35,Commerce,27187,Bus,1,285429,Town Hall,Pallavaram
+Green Valley HSS,Erode,State Board,60,80,Maths Biology,107388,Walk,7,393540,Gandhipuram,Mylapore
+Sri Ram Matric School,Thanjavur,ICSE,35,35,Arts,61368,Bus,5,313058,Gandhinagar,Saidapet
+Aditya School,Thanjavur,State Board,60,80,Maths Biology,76213,Bus,5,181030,KK Nagar,RS Puram
+Nightingale School,Chennai,ICSE,35,35,Arts,36300,Walk,2,224118,Kotturpuram,Tambaram
+Bharathi School,Coimbatore,CBSE,85,85,Computer Science,117785,Van,1,185197,Tambaram,Velachery
+St. Joseph Matric School,Thanjavur,State Board,35,35,Arts,46884,Own Vehicle,3,192826,Saidapet,Gandhipuram
+Aditya HSS,Tirunelveli,IGCSE,85,85,Computer Science,60649,Bus,5,316161,Tambaram,Gandhinagar
+Unity International,Thanjavur,State Board,85,85,Computer Science,32266,Walk,10,112995,Anna Nagar,Gandhipuram
+Oxford Academy,Coimbatore,CBSE,35,35,Commerce,54937,Bus,1,194036,RS Puram,T. Nagar
+Green Valley International,Tirunelveli,IGCSE,60,80,Maths Biology,145615,Van,3,274160,T. Nagar,Adyar
+Little Flower Academy,Trichy,IGCSE,35,35,Arts,145042,Own Vehicle,5,315856,Gandhipuram,KK Nagar
+Sri Ram Matric School,Chennai,ICSE,35,35,Commerce,54253,Bus,7,230111,Tambaram,Lakshmi Mills
+Don Bosco Academy,Salem,State Board,35,35,Arts,36322,Walk,1,239883,Adyar,Guindy
+Bharathi Matric School,Salem,ICSE,60,80,Maths Biology,85807,Own Vehicle,10,183465,Perambur,Pallavaram
+Nightingale Matric School,Trichy,ICSE,60,80,Maths Biology,25835,Walk,1,156673,Pallavaram,Lakshmi Mills
+Holy Cross HSS,Tirunelveli,CBSE,35,35,Commerce,124474,Walk,5,300562,Tambaram,Kotturpuram
+Zenith School,Erode,IGCSE,60,80,Maths Biology,32850,Van,5,120302,Gandhipuram,RS Puram
+Kendriya School,Thanjavur,IGCSE,85,85,Computer Science,116861,Own Vehicle,8,346777,Saidapet,Kotturpuram
+Zenith School,Erode,CBSE,85,85,Computer Science,102580,Bus,7,216619,Gandhipuram,Lakshmi Mills
+Little Flower Academy,Salem,State Board,60,80,Maths Biology,146378,Walk,6,204633,Adyar,Ambattur
+Bharathi School,Coimbatore,ICSE,35,35,Arts,42840,Bus,3,341331,Lakshmi Mills,Gandhinagar
+Unity International,Tirunelveli,IGCSE,60,80,Maths Biology,40825,Own Vehicle,4,283321,Perambur,Chromepet
+Unity Academy,Coimbatore,CBSE,35,35,Commerce,45658,Own Vehicle,10,260007,Adyar,Tambaram
+Don Bosco Academy,Madurai,CBSE,60,80,Maths Biology,118212,Van,6,219325,Perambur,Besant Nagar
+Holy Cross Academy,Salem,ICSE,85,85,Computer Science,29073,Walk,8,216876,Mylapore,Kotturpuram
+Sri Ram International,Coimbatore,ICSE,60,80,Maths Biology,40919,Bus,1,112406,Velachery,T. Nagar
+Little Flower International,Tirunelveli,CBSE,60,80,Maths Biology,101326,Own Vehicle,2,201255,RS Puram,Guindy
+Little Flower International,Madurai,CBSE,85,85,Computer Science,143630,Own Vehicle,2,308910,Perambur,Adyar
+Green Valley School,Kanchipuram,IGCSE,35,35,Arts,132699,Walk,8,272103,Tambaram,Saidapet
+Holy Cross International,Madurai,State Board,35,35,Arts,53143,Van,5,246068,Saidapet,Town Hall
+Kendriya School,Chennai,ICSE,35,35,Arts,109840,Own Vehicle,8,136396,Guindy,Guindy
+Green Valley HSS,Salem,IGCSE,35,35,Arts,42987,Walk,4,246341,Gandhipuram,Gandhinagar
+Holy Cross Matric School,Chennai,IGCSE,60,80,Maths Biology,127487,Own Vehicle,8,284101,Velachery,Anna Nagar
+St. Joseph Matric School,Thanjavur,State Board,35,35,Arts,75905,Own Vehicle,3,367075,KK Nagar,T. Nagar
+Evergreen School,Chennai,State Board,35,35,Commerce,32679,Walk,9,309546,KK Nagar,Velachery
+Oxford HSS,Trichy,ICSE,60,80,Maths Biology,59934,Bus,4,381131,Saidapet,Pallavaram
+St. Joseph School,Madurai,ICSE,35,35,Arts,102662,Own Vehicle,6,273617,Anna Nagar,Pallavaram
+Nightingale Academy,Kanchipuram,ICSE,85,85,Computer Science,98807,Van,8,114470,KK Nagar,Anna Nagar
+Oxford International,Chennai,CBSE,35,35,Commerce,32362,Van,10,160472,Town Hall,Gandhinagar
+Zenith International,Chennai,State Board,85,85,Computer Science,145310,Van,3,236951,Saidapet,Pallavaram
+Kendriya Academy,Chennai,CBSE,60,80,Maths Biology,44360,Van,2,193620,Velachery,Adyar
+Sri Ram Academy,Erode,CBSE,35,35,Commerce,69113,Own Vehicle,6,239180,Gandhinagar,KK Nagar
+Nightingale International,Vellore,State Board,60,80,Maths Biology,47833,Own Vehicle,4,120057,KK Nagar,Besant Nagar
+Global Public Academy,Salem,ICSE,60,80,Maths Biology,48292,Bus,10,156834,RS Puram,Chromepet
+Oxford Matric School,Tirunelveli,ICSE,85,85,Computer Science,108839,Bus,8,327836,Ambattur,Kotturpuram
+Nightingale HSS,Trichy,State Board,35,35,Commerce,66879,Van,2,281239,Adyar,Gandhinagar
+Unity HSS,Salem,ICSE,35,35,Commerce,57707,Bus,6,264457,Besant Nagar,KK Nagar
+Nightingale HSS,Chennai,IGCSE,85,85,Computer Science,82438,Walk,3,328796,Velachery,Pallavaram
+Kendriya International,Tirunelveli,IGCSE,35,35,Arts,38294,Walk,10,368132,Mylapore,Saidapet
+Oxford International,Coimbatore,CBSE,60,80,Maths Biology,63654,Bus,6,160631,Kotturpuram,Besant Nagar
+Sri Ram Academy,Madurai,IGCSE,85,85,Computer Science,46090,Bus,9,301953,Perambur,T. Nagar
+Evergreen Matric School,Vellore,CBSE,35,35,Commerce,81534,Van,10,199656,Lakshmi Mills,Besant Nagar
+Green Valley HSS,Tirunelveli,ICSE,60,80,Maths Biology,49901,Walk,9,233547,Velachery,Perambur
+Holy Cross Academy,Salem,ICSE,35,35,Commerce,37571,Bus,7,123271,Velachery,Saidapet
+Oxford HSS,Tirunelveli,CBSE,35,35,Arts,81047,Bus,5,328619,Anna Nagar,Town Hall
+Little Flower HSS,Chennai,ICSE,35,35,Arts,47391,Own Vehicle,2,100886,Mylapore,Town Hall
+Bharathi International,Vellore,IGCSE,85,85,Computer Science,142293,Own Vehicle,2,372587,Ambattur,RS Puram
+Oxford Academy,Erode,State Board,35,35,Arts,49455,Walk,1,382303,Town Hall,KK Nagar
+Unity Academy,Trichy,State Board,35,35,Arts,98956,Bus,3,203303,Gandhinagar,Town Hall
+Sri Ram Academy,Thanjavur,IGCSE,85,85,Computer Science,124150,Van,9,290956,T. Nagar,Saidapet
+Don Bosco Matric School,Erode,IGCSE,35,35,Arts,100066,Van,8,326124,Gandhinagar,Besant Nagar
+Global Public HSS,Thanjavur,ICSE,85,85,Computer Science,40765,Walk,3,136686,Perambur,Lakshmi Mills
+Aditya School,Madurai,CBSE,60,80,Maths Biology,80492,Bus,7,273119,Chromepet,Ambattur
+Don Bosco Matric School,Salem,State Board,60,80,Maths Biology,144380,Bus,2,264582,Ambattur,Tambaram
+Zenith Academy,Salem,IGCSE,35,35,Arts,145214,Bus,10,165339,Tambaram,Adyar
+Sri Ram International,Madurai,ICSE,35,35,Arts,99264,Bus,2,257455,Town Hall,Kotturpuram
+Aditya Academy,Thanjavur,State Board,85,85,Computer Science,140067,Walk,5,365878,Anna Nagar,T. Nagar
+Evergreen Matric School,Vellore,CBSE,35,35,Arts,47570,Own Vehicle,7,262154,RS Puram,Town Hall
+Green Valley International,Tirunelveli,ICSE,35,35,Arts,31460,Walk,5,314115,Gandhinagar,Gandhinagar
+St. Joseph Academy,Salem,State Board,85,85,Computer Science,135473,Walk,2,271013,KK Nagar,Town Hall
+Bharathi International,Tirunelveli,State Board,60,80,Maths Biology,120525,Walk,10,310973,Pallavaram,RS Puram
+Little Flower International,Trichy,IGCSE,85,85,Computer Science,122117,Walk,9,255008,Gandhinagar,Ambattur
+Zenith School,Coimbatore,State Board,85,85,Computer Science,118004,Walk,3,390671,Adyar,Chromepet
+Oxford School,Trichy,CBSE,85,85,Computer Science,57701,Bus,8,166735,RS Puram,Anna Nagar
+Nightingale School,Salem,State Board,35,35,Commerce,132938,Walk,9,200579,Guindy,Tambaram
+Holy Cross HSS,Trichy,State Board,85,85,Computer Science,89066,Walk,3,320434,Saidapet,Kotturpuram
+St. Joseph School,Salem,CBSE,35,35,Commerce,62364,Bus,7,298781,Perambur,Saidapet
+Don Bosco Matric School,Trichy,ICSE,60,80,Maths Biology,109853,Van,4,191240,Town Hall,Adyar
+Zenith HSS,Chennai,IGCSE,35,35,Arts,144474,Van,3,398375,Saidapet,Mylapore
+Little Flower Academy,Kanchipuram,State Board,85,85,Computer Science,118420,Own Vehicle,7,257784,Guindy,Chromepet
+Unity Academy,Trichy,IGCSE,35,35,Commerce,64602,Walk,10,312900,Chromepet,Perambur
+Zenith Academy,Thanjavur,State Board,85,85,Computer Science,64121,Bus,8,387276,RS Puram,Guindy
+Bharathi Academy,Salem,State Board,35,35,Commerce,110998,Own Vehicle,4,100212,Ambattur,Besant Nagar
+Kendriya HSS,Kanchipuram,IGCSE,60,80,Maths Biology,111577,Own Vehicle,3,259317,Pallavaram,Kotturpuram
+Bharathi Academy,Erode,IGCSE,35,35,Arts,75891,Bus,10,250425,Mylapore,Adyar
+St. Joseph School,Thanjavur,IGCSE,60,80,Maths Biology,143820,Own Vehicle,9,210196,Gandhinagar,Mylapore
+Don Bosco Matric School,Madurai,State Board,60,80,Maths Biology,37793,Walk,3,325385,Adyar,Gandhinagar
+Holy Cross Academy,Coimbatore,ICSE,60,80,Maths Biology,71567,Van,5,268951,Saidapet,Tambaram
+St. Joseph Academy,Kanchipuram,State Board,35,35,Commerce,85786,Bus,8,343787,Anna Nagar,Gandhipuram
+Unity School,Thanjavur,CBSE,85,85,Computer Science,138704,Walk,9,331623,Chromepet,Lakshmi Mills
+Green Valley School,Madurai,ICSE,35,35,Arts,69914,Walk,10,331819,Tambaram,Kotturpuram
+St. Joseph School,Coimbatore,IGCSE,60,80,Maths Biology,68598,Van,6,212041,Mylapore,Besant Nagar
+Green Valley International,Salem,ICSE,85,85,Computer Science,124771,Van,10,368002,Perambur,RS Puram
+Aditya HSS,Madurai,IGCSE,35,35,Arts,108032,Walk,7,348085,Saidapet,Anna Nagar
+Global Public HSS,Chennai,ICSE,35,35,Arts,120768,Own Vehicle,1,188967,T. Nagar,Guindy
+Green Valley HSS,Trichy,ICSE,60,80,Maths Biology,115901,Own Vehicle,5,144457,Town Hall,Velachery
+Global Public Matric School,Kanchipuram,State Board,85,85,Computer Science,46891,Bus,1,248785,Guindy,KK Nagar
+Unity Matric School,Kanchipuram,State Board,35,35,Commerce,81841,Van,6,370245,Town Hall,Lakshmi Mills
+Aditya School,Madurai,IGCSE,35,35,Commerce,27506,Van,4,275735,RS Puram,Tambaram
+Nightingale HSS,Kanchipuram,ICSE,60,80,Maths Biology,41143,Own Vehicle,1,148961,Lakshmi Mills,Anna Nagar
+Aditya Matric School,Kanchipuram,CBSE,35,35,Commerce,102846,Bus,2,223138,Chromepet,Tambaram
+Green Valley HSS,Erode,IGCSE,85,85,Computer Science,74840,Bus,9,262749,Lakshmi Mills,Saidapet
+Nightingale School,Trichy,CBSE,35,35,Arts,64467,Walk,2,217776,Saidapet,T. Nagar
+Evergreen Matric School,Madurai,IGCSE,35,35,Commerce,133875,Bus,9,204401,Town Hall,Velachery
+Bharathi HSS,Coimbatore,IGCSE,85,85,Computer Science,51037,Van,5,177255,Ambattur,RS Puram
+St. Joseph International,Salem,ICSE,60,80,Maths Biology,30164,Walk,4,112805,Lakshmi Mills,Kotturpuram
+St. Joseph School,Chennai,CBSE,35,35,Arts,113032,Bus,2,124229,Tambaram,RS Puram
+Oxford HSS,Thanjavur,CBSE,35,35,Arts,119838,Bus,5,228368,Gandhipuram,Gandhipuram
+Unity Academy,Salem,IGCSE,60,80,Maths Biology,31564,Bus,3,349108,Mylapore,Besant Nagar
+St. Joseph Academy,Erode,CBSE,35,35,Commerce,37451,Bus,1,138182,Saidapet,Lakshmi Mills
+St. Joseph Academy,Vellore,State Board,60,80,Maths Biology,140143,Bus,6,338769,Ambattur,Chromepet
+Sri Ram International,Erode,IGCSE,60,80,Maths Biology,60629,Walk,8,317286,KK Nagar,Gandhinagar
+Sri Ram School,Chennai,ICSE,60,80,Maths Biology,38593,Walk,10,201940,Guindy,Saidapet
+Oxford Matric School,Erode,State Board,35,35,Arts,105131,Bus,3,301315,Pallavaram,Besant Nagar
+Sri Ram International,Vellore,CBSE,35,35,Arts,33301,Own Vehicle,6,359196,Lakshmi Mills,Besant Nagar
+Holy Cross Academy,Thanjavur,CBSE,60,80,Maths Biology,81734,Van,8,309533,Ambattur,Velachery
+Oxford Matric School,Kanchipuram,CBSE,35,35,Arts,26526,Van,9,227918,Tambaram,Kotturpuram
+Don Bosco School,Coimbatore,IGCSE,35,35,Arts,67026,Van,6,177369,Anna Nagar,Tambaram
+Zenith School,Thanjavur,IGCSE,85,85,Computer Science,77858,Van,2,102907,Lakshmi Mills,Gandhipuram
+Aditya Matric School,Vellore,CBSE,35,35,Arts,137274,Walk,8,155882,Lakshmi Mills,Ambattur
+Unity HSS,Coimbatore,IGCSE,85,85,Computer Science,79046,Bus,9,322899,Mylapore,Mylapore
+Don Bosco HSS,Kanchipuram,State Board,85,85,Computer Science,141668,Van,8,214735,Saidapet,Guindy
+Don Bosco HSS,Trichy,IGCSE,35,35,Commerce,68512,Walk,6,192215,Pallavaram,Chromepet
+Sri Ram School,Chennai,State Board,85,85,Computer Science,71548,Own Vehicle,9,371559,Guindy,Gandhipuram
+Nightingale HSS,Chennai,ICSE,35,35,Commerce,89542,Van,7,343557,Town Hall,T. Nagar
+Evergreen School,Trichy,CBSE,35,35,Commerce,146925,Walk,4,126328,Kotturpuram,Gandhinagar
+Nightingale Academy,Coimbatore,IGCSE,60,80,Maths Biology,31094,Bus,8,392241,Kotturpuram,Saidapet
+Unity HSS,Thanjavur,CBSE,60,80,Maths Biology,97512,Walk,10,230651,Kotturpuram,Town Hall
+Nightingale Matric School,Madurai,ICSE,60,80,Maths Biology,38573,Walk,10,163626,Mylapore,Chromepet
+Zenith International,Erode,ICSE,35,35,Commerce,60860,Walk,6,339317,Chromepet,Gandhinagar
+Aditya School,Madurai,IGCSE,35,35,Arts,103974,Own Vehicle,9,169908,Besant Nagar,Anna Nagar
